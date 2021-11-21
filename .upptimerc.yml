@@ -1,26 +1,48 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: marci4server # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+runner: [self-hosted]
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: marci4.de
+    url: https://marci4.de
+  - name: Plesk
+    url: $PLESK
+  - name: Nextcloud
+    url: $NEXTCLOUD
+  - name: gfl.marci4.de
+    url: https://gfl.marci4.de
+  - name: bot.marci4.de
+    url: https://bot.marci4.de
+  - name: bot.marci4.de - WebSocket
+    url: https://bot.marci4.de:8081
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 404
+  - name: feuerwehr-lauben.de
+    url: https://feuerwehr-lauben.de
+  - name: kljb-lauben.de
+    url: https://kljb-lauben.de
+  - name: elektro-oppold.de
+    url: https://elektro-oppold.de
+  - name: faschingsverein-oy.de
+    url: https://faschingsverein-oy.de
+  - name: musikfest-2020.de
+    url: https://musikfest-2020.de/
+  - name: saegesucht.de
+    url: https://saegesucht.de
+  - name: sw-vt.de
+    url: https://sw-vt.de/
+  - name: prinzessin-gugelhupf.de
+    url: https://prinzessin-gugelhupf.de/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime
+  introTitle: "Status page"
   navbar:
     - title: Status
       href: /

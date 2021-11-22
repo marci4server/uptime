@@ -42,7 +42,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   user-agent: marci4server
-  robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: * \nDisallow: /"
   introTitle: "Status page"
   navbar:
     - title: Status

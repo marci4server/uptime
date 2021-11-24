@@ -94,18 +94,20 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de-web-socket",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 614,
     "timeDay": 502,
     "timeWeek": 614,
     "timeMonth": 614,
     "timeYear": 614,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 0
+    }
   },
   {
     "name": "feuerwehr-lauben.de",

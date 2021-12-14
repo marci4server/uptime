@@ -58,19 +58,19 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 518,
-    "timeWeek": 529,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 485,
+    "timeDay": 481,
+    "timeWeek": 515,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 110
     }
   },
   {

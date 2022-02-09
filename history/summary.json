@@ -105,19 +105,19 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de-web-socket",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.89%",
-    "time": 662,
-    "timeDay": 666,
-    "timeWeek": 730,
-    "timeMonth": 716,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.87%",
+    "time": 664,
+    "timeDay": 728,
+    "timeWeek": 744,
+    "timeMonth": 720,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-02-09": 15,
+      "2022-02-09": 33,
       "2022-01-29": 29,
       "2021-12-15": 87
     }
@@ -249,19 +249,17 @@
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 812,
     "timeWeek": 829,
     "timeMonth": 771,
     "timeYear": 940,
-    "dailyMinutesDown": {
-      "2022-02-09": 149
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "prinzessin-gugelhupf.de",
@@ -269,18 +267,16 @@
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "89.70%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 848,
     "timeDay": 802,
     "timeWeek": 862,
     "timeMonth": 860,
     "timeYear": 848,
-    "dailyMinutesDown": {
-      "2022-02-09": 148
-    }
+    "dailyMinutesDown": {}
   }
 ]

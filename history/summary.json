@@ -58,9 +58,9 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 616,
     "timeMonth": 610,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "bot.marci4.de",
@@ -132,18 +134,16 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1872,
     "timeDay": 1386,
     "timeWeek": 1576,
     "timeMonth": 1646,
     "timeYear": 1872,
-    "dailyMinutesDown": {
-      "2022-02-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "elektro-oppold.de",
@@ -152,18 +152,16 @@
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 657,
     "timeWeek": 682,
     "timeMonth": 730,
     "timeYear": 714,
-    "dailyMinutesDown": {
-      "2022-02-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "faschingsverein-oy.de",

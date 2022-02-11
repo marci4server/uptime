@@ -40,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1720,
     "timeMonth": 1997,
     "timeYear": 1958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "gfl.marci4.de",
@@ -60,12 +62,12 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 549,
-    "timeDay": 685,
+    "timeDay": 854,
     "timeWeek": 635,
     "timeMonth": 620,
     "timeYear": 549,
@@ -139,7 +141,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1871,
-    "timeDay": 1543,
+    "timeDay": 1719,
     "timeWeek": 1577,
     "timeMonth": 1655,
     "timeYear": 1871,
@@ -157,7 +159,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 885,
+    "timeDay": 992,
     "timeWeek": 734,
     "timeMonth": 742,
     "timeYear": 717,
@@ -205,19 +207,17 @@
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1118,
     "timeDay": 854,
     "timeWeek": 878,
     "timeMonth": 887,
     "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2022-02-11": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sw-vt.de",

@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 753,
+    "timeDay": 837,
     "timeWeek": 640,
     "timeMonth": 666,
     "timeYear": 587,
@@ -40,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 1763,
     "timeMonth": 2001,
     "timeYear": 1960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "gfl.marci4.de",
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -70,6 +72,7 @@
     "timeMonth": 620,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2022-02-11": 0,
       "2022-02-10": 18
     }
   },
@@ -78,9 +81,9 @@
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +92,9 @@
     "timeWeek": 825,
     "timeMonth": 836,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -175,7 +180,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1315,
-    "timeDay": 1405,
+    "timeDay": 1592,
     "timeWeek": 1449,
     "timeMonth": 1383,
     "timeYear": 1315,
@@ -224,18 +229,16 @@
     "slug": "sw-vt-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
     "timeDay": 811,
     "timeWeek": 822,
     "timeMonth": 788,
     "timeYear": 935,
-    "dailyMinutesDown": {
-      "2022-02-11": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "prinzessin-gugelhupf.de",

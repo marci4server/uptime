@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1958,
     "timeDay": 1591,
     "timeWeek": 1720,
     "timeMonth": 1997,
     "timeYear": 1958,
-    "dailyMinutesDown": {
-      "2022-02-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gfl.marci4.de",
@@ -206,9 +204,9 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,7 +215,9 @@
     "timeWeek": 900,
     "timeMonth": 893,
     "timeYear": 1123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "sw-vt.de",

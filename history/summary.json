@@ -222,19 +222,19 @@
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 1026,
-    "timeWeek": 851,
-    "timeMonth": 794,
-    "timeYear": 939,
+    "time": 935,
+    "timeDay": 811,
+    "timeWeek": 822,
+    "timeMonth": 788,
+    "timeYear": 935,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-11": 6
     }
   },
   {

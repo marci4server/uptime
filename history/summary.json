@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1958,
-    "timeDay": 1877,
+    "timeDay": 1914,
     "timeWeek": 1779,
     "timeMonth": 2004,
     "timeYear": 1958,
@@ -136,18 +136,16 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1864,
     "timeDay": 1584,
     "timeWeek": 1584,
     "timeMonth": 1655,
     "timeYear": 1864,
-    "dailyMinutesDown": {
-      "2022-02-12": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "elektro-oppold.de",
@@ -208,18 +206,20 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1115,
-    "timeDay": 783,
+    "timeDay": 869,
     "timeWeek": 872,
     "timeMonth": 889,
     "timeYear": 1115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "sw-vt.de",

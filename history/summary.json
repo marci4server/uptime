@@ -4,9 +4,9 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 633,
     "timeMonth": 664,
     "timeYear": 587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Plesk",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1958,
-    "timeDay": 1914,
+    "timeDay": 1725,
     "timeWeek": 1779,
     "timeMonth": 2004,
     "timeYear": 1958,
@@ -65,7 +67,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 550,
-    "timeDay": 609,
+    "timeDay": 590,
     "timeWeek": 632,
     "timeMonth": 619,
     "timeYear": 550,
@@ -85,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 793,
-    "timeDay": 883,
+    "timeDay": 1027,
     "timeWeek": 839,
     "timeMonth": 840,
     "timeYear": 793,
@@ -121,8 +123,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1360,
-    "timeDay": 1849,
-    "timeWeek": 1779,
+    "timeDay": 1994,
+    "timeWeek": 1905,
     "timeMonth": 1451,
     "timeYear": 1360,
     "dailyMinutesDown": {
@@ -208,18 +210,16 @@
     "slug": "saegesucht-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1114,
     "timeDay": 938,
     "timeWeek": 885,
     "timeMonth": 893,
     "timeYear": 1114,
-    "dailyMinutesDown": {
-      "2022-02-12": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sw-vt.de",
@@ -233,7 +233,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 936,
-    "timeDay": 810,
+    "timeDay": 1024,
     "timeWeek": 835,
     "timeMonth": 800,
     "timeYear": 936,

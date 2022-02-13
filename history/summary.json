@@ -152,9 +152,9 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://favicons.githubusercontent.com/elektro-oppold.de",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +163,9 @@
     "timeWeek": 735,
     "timeMonth": 743,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "faschingsverein-oy.de",
@@ -210,18 +212,16 @@
     "slug": "saegesucht-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1108,
     "timeDay": 830,
     "timeWeek": 851,
     "timeMonth": 884,
     "timeYear": 1108,
-    "dailyMinutesDown": {
-      "2022-02-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sw-vt.de",

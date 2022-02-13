@@ -208,18 +208,20 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1112,
-    "timeDay": 976,
+    "timeDay": 945,
     "timeWeek": 865,
     "timeMonth": 889,
     "timeYear": 1112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "sw-vt.de",

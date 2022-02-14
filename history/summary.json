@@ -190,12 +190,12 @@
     "slug": "musikfest-2020-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "98.83%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1470,
-    "timeDay": 1217,
+    "timeDay": 1386,
     "timeWeek": 1127,
     "timeMonth": 1297,
     "timeYear": 1470,
@@ -208,9 +208,9 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 859,
     "timeMonth": 882,
     "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "sw-vt.de",

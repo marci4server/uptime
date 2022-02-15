@@ -58,9 +58,9 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -70,6 +70,7 @@
     "timeMonth": 626,
     "timeYear": 552,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2022-02-10": 18
     }
   },
@@ -212,9 +213,9 @@
     "slug": "saegesucht-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1100,
     "timeDay": 820,
@@ -222,7 +223,6 @@
     "timeMonth": 879,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2022-02-15": 6,
       "2022-02-14": 19
     }
   },

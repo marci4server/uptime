@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 690,
+    "time": 590,
+    "timeDay": 493,
     "timeWeek": 631,
-    "timeMonth": 659,
-    "timeYear": 591,
+    "timeMonth": 651,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1095,
-    "timeDay": 1283,
-    "timeWeek": 1188,
-    "timeMonth": 1185,
-    "timeYear": 1095,
+    "time": 1092,
+    "timeDay": 835,
+    "timeWeek": 1141,
+    "timeMonth": 1175,
+    "timeYear": 1092,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1951,
-    "timeDay": 1592,
-    "timeWeek": 1769,
-    "timeMonth": 1985,
-    "timeYear": 1951,
+    "time": 1944,
+    "timeDay": 1306,
+    "timeWeek": 1755,
+    "timeMonth": 1969,
+    "timeYear": 1944,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 552,
-    "timeDay": 843,
-    "timeWeek": 641,
-    "timeMonth": 624,
+    "timeDay": 522,
+    "timeWeek": 644,
+    "timeMonth": 626,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2022-02-10": 18
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 1042,
-    "timeWeek": 839,
-    "timeMonth": 834,
-    "timeYear": 796,
+    "time": 794,
+    "timeDay": 609,
+    "timeWeek": 817,
+    "timeMonth": 828,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 833,
-    "timeWeek": 749,
-    "timeMonth": 732,
-    "timeYear": 669,
+    "time": 668,
+    "timeDay": 507,
+    "timeWeek": 721,
+    "timeMonth": 724,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1369,
-    "timeDay": 1720,
+    "time": 1372,
+    "timeDay": 1681,
     "timeWeek": 1827,
-    "timeMonth": 1467,
-    "timeYear": 1369,
+    "timeMonth": 1476,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2022-02-12": 15
     }
@@ -136,18 +136,16 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1857,
-    "timeDay": 1596,
-    "timeWeek": 1580,
-    "timeMonth": 1659,
-    "timeYear": 1857,
-    "dailyMinutesDown": {
-      "2022-02-14": 6
-    }
+    "time": 1853,
+    "timeDay": 1490,
+    "timeWeek": 1555,
+    "timeMonth": 1645,
+    "timeYear": 1853,
+    "dailyMinutesDown": {}
   },
   {
     "name": "elektro-oppold.de",
@@ -156,18 +154,16 @@
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 688,
-    "timeWeek": 743,
-    "timeMonth": 736,
-    "timeYear": 720,
-    "dailyMinutesDown": {
-      "2022-02-14": 6
-    }
+    "time": 719,
+    "timeDay": 562,
+    "timeWeek": 741,
+    "timeMonth": 731,
+    "timeYear": 719,
+    "dailyMinutesDown": {}
   },
   {
     "name": "faschingsverein-oy.de",
@@ -176,18 +172,16 @@
     "slug": "faschingsverein-oy-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1316,
-    "timeDay": 1232,
-    "timeWeek": 1414,
-    "timeMonth": 1371,
-    "timeYear": 1316,
-    "dailyMinutesDown": {
-      "2022-02-14": 6
-    }
+    "time": 1313,
+    "timeDay": 1013,
+    "timeWeek": 1378,
+    "timeMonth": 1358,
+    "timeYear": 1313,
+    "dailyMinutesDown": {}
   },
   {
     "name": "musikfest-2020.de",
@@ -200,11 +194,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 1470,
-    "timeDay": 1007,
-    "timeWeek": 1127,
-    "timeMonth": 1297,
-    "timeYear": 1470,
+    "time": 1462,
+    "timeDay": 682,
+    "timeWeek": 1111,
+    "timeMonth": 1273,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2022-02-13": 32
     }
@@ -220,11 +214,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1105,
-    "timeDay": 979,
-    "timeWeek": 866,
-    "timeMonth": 884,
-    "timeYear": 1105,
+    "time": 1101,
+    "timeDay": 821,
+    "timeWeek": 847,
+    "timeMonth": 877,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2022-02-14": 19
     }
@@ -240,11 +234,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 1055,
-    "timeWeek": 842,
-    "timeMonth": 804,
-    "timeYear": 937,
+    "time": 934,
+    "timeDay": 685,
+    "timeWeek": 848,
+    "timeMonth": 801,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
@@ -258,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 852,
-    "timeDay": 1000,
-    "timeWeek": 878,
-    "timeMonth": 876,
-    "timeYear": 852,
+    "time": 849,
+    "timeDay": 611,
+    "timeWeek": 857,
+    "timeMonth": 866,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   }
 ]

@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 550,
     "timeDay": 467,
     "timeWeek": 626,
     "timeMonth": 620,
     "timeYear": 550,
-    "dailyMinutesDown": {
-      "2022-02-10": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bot.marci4.de",
@@ -114,19 +112,19 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1372,
     "timeDay": 1681,
     "timeWeek": 1827,
     "timeMonth": 1476,
     "timeYear": 1372,
     "dailyMinutesDown": {
-      "2022-02-12": 15
+      "2022-02-15": 0
     }
   },
   {
@@ -135,19 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1844,
-    "timeDay": 1459,
+    "timeDay": 1431,
     "timeWeek": 1535,
     "timeMonth": 1633,
     "timeYear": 1844,
-    "dailyMinutesDown": {
-      "2022-02-15": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "elektro-oppold.de",
@@ -161,7 +157,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 562,
+    "timeDay": 600,
     "timeWeek": 741,
     "timeMonth": 731,
     "timeYear": 719,
@@ -179,7 +175,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1313,
-    "timeDay": 1013,
+    "timeDay": 991,
     "timeWeek": 1378,
     "timeMonth": 1358,
     "timeYear": 1313,
@@ -191,19 +187,17 @@
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1462,
     "timeDay": 682,
     "timeWeek": 1111,
     "timeMonth": 1273,
     "timeYear": 1462,
-    "dailyMinutesDown": {
-      "2022-02-13": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "saegesucht.de",
@@ -211,20 +205,17 @@
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1095,
     "timeDay": 779,
     "timeWeek": 843,
     "timeMonth": 874,
     "timeYear": 1095,
-    "dailyMinutesDown": {
-      "2022-02-15": 6,
-      "2022-02-14": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sw-vt.de",

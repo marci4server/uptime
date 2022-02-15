@@ -134,19 +134,19 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1849,
-    "timeDay": 1510,
-    "timeWeek": 1554,
-    "timeMonth": 1642,
-    "timeYear": 1849,
+    "time": 1844,
+    "timeDay": 1459,
+    "timeWeek": 1535,
+    "timeMonth": 1633,
+    "timeYear": 1844,
     "dailyMinutesDown": {
-      "2022-02-15": 20
+      "2022-02-15": 26
     }
   },
   {

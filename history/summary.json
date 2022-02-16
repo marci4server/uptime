@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 578,
+    "timeDay": 743,
     "timeWeek": 644,
     "timeMonth": 621,
     "timeYear": 552,
@@ -139,7 +139,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1846,
-    "timeDay": 1738,
+    "timeDay": 1954,
     "timeWeek": 1581,
     "timeMonth": 1646,
     "timeYear": 1846,
@@ -188,11 +188,11 @@
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1452,
     "timeDay": 974,
@@ -200,7 +200,7 @@
     "timeMonth": 1250,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2022-02-16": 6
+      "2022-02-16": 0
     }
   },
   {
@@ -215,7 +215,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1095,
-    "timeDay": 892,
+    "timeDay": 866,
     "timeWeek": 850,
     "timeMonth": 871,
     "timeYear": 1095,

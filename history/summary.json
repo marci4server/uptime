@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1094,
     "timeDay": 1303,
-    "timeWeek": 1148,
+    "timeWeek": 1142,
     "timeMonth": 1176,
     "timeYear": 1094,
     "dailyMinutesDown": {}
@@ -40,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1761,
     "timeMonth": 1966,
     "timeYear": 1943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "gfl.marci4.de",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 669,
     "timeDay": 848,
-    "timeWeek": 728,
+    "timeWeek": 751,
     "timeMonth": 724,
     "timeYear": 669,
     "dailyMinutesDown": {}
@@ -190,18 +192,16 @@
     "slug": "musikfest-2020-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1445,
     "timeDay": 919,
     "timeWeek": 1071,
     "timeMonth": 1238,
     "timeYear": 1445,
-    "dailyMinutesDown": {
-      "2022-02-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "saegesucht.de",

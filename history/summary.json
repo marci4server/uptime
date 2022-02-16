@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 701,
-    "timeWeek": 636,
+    "timeWeek": 648,
     "timeMonth": 646,
     "timeYear": 591,
     "dailyMinutesDown": {}
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1935,
     "timeDay": 1471,
-    "timeWeek": 1712,
+    "timeWeek": 1665,
     "timeMonth": 1943,
     "timeYear": 1935,
-    "dailyMinutesDown": {
-      "2022-02-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gfl.marci4.de",
@@ -68,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 743,
-    "timeWeek": 644,
+    "timeWeek": 611,
     "timeMonth": 621,
     "timeYear": 552,
     "dailyMinutesDown": {}
@@ -86,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 797,
     "timeDay": 1109,
-    "timeWeek": 848,
+    "timeWeek": 870,
     "timeMonth": 826,
     "timeYear": 797,
     "dailyMinutesDown": {}
@@ -104,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 669,
     "timeDay": 848,
-    "timeWeek": 751,
+    "timeWeek": 736,
     "timeMonth": 724,
     "timeYear": 669,
     "dailyMinutesDown": {}
@@ -114,15 +112,15 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.90%",
+    "uptimeDay": "97.89%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1394,
     "timeDay": 2106,
-    "timeWeek": 1885,
+    "timeWeek": 1830,
     "timeMonth": 1526,
     "timeYear": 1394,
     "dailyMinutesDown": {
@@ -142,7 +140,7 @@
     "uptimeYear": "99.98%",
     "time": 1846,
     "timeDay": 1954,
-    "timeWeek": 1581,
+    "timeWeek": 1586,
     "timeMonth": 1646,
     "timeYear": 1846,
     "dailyMinutesDown": {
@@ -162,7 +160,7 @@
     "uptimeYear": "100.00%",
     "time": 720,
     "timeDay": 836,
-    "timeWeek": 747,
+    "timeWeek": 762,
     "timeMonth": 727,
     "timeYear": 720,
     "dailyMinutesDown": {}
@@ -180,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 1314,
     "timeDay": 1440,
-    "timeWeek": 1378,
+    "timeWeek": 1287,
     "timeMonth": 1356,
     "timeYear": 1314,
     "dailyMinutesDown": {}
@@ -198,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 1445,
     "timeDay": 919,
-    "timeWeek": 1071,
+    "timeWeek": 1001,
     "timeMonth": 1238,
     "timeYear": 1445,
     "dailyMinutesDown": {}
@@ -215,8 +213,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1095,
-    "timeDay": 866,
-    "timeWeek": 850,
+    "timeDay": 1033,
+    "timeWeek": 868,
     "timeMonth": 871,
     "timeYear": 1095,
     "dailyMinutesDown": {}
@@ -234,7 +232,7 @@
     "uptimeYear": "100.00%",
     "time": 935,
     "timeDay": 1029,
-    "timeWeek": 861,
+    "timeWeek": 880,
     "timeMonth": 806,
     "timeYear": 935,
     "dailyMinutesDown": {}
@@ -252,7 +250,7 @@
     "uptimeYear": "100.00%",
     "time": 852,
     "timeDay": 1044,
-    "timeWeek": 873,
+    "timeWeek": 899,
     "timeMonth": 868,
     "timeYear": 852,
     "dailyMinutesDown": {}

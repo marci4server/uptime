@@ -121,7 +121,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1405,
-    "timeDay": 1699,
+    "timeDay": 1806,
     "timeWeek": 1864,
     "timeMonth": 1556,
     "timeYear": 1405,
@@ -134,9 +134,9 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -146,6 +146,7 @@
     "timeMonth": 1645,
     "timeYear": 1838,
     "dailyMinutesDown": {
+      "2022-02-17": 0,
       "2022-02-16": 21
     }
   },
@@ -215,7 +216,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1089,
-    "timeDay": 809,
+    "timeDay": 921,
     "timeWeek": 871,
     "timeMonth": 871,
     "timeYear": 1089,

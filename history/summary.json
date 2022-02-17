@@ -6,17 +6,17 @@
     "slug": "marci4-de",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 590,
+    "time": 589,
     "timeDay": 475,
     "timeWeek": 645,
     "timeMonth": 644,
-    "timeYear": 590,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-02-17": 0
+      "2022-02-17": 5
     }
   },
   {

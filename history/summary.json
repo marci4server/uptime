@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 587,
     "timeDay": 535,
     "timeWeek": 584,
     "timeMonth": 631,
     "timeYear": 587,
-    "dailyMinutesDown": {
-      "2022-02-18": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plesk",
@@ -174,9 +172,9 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,7 +183,9 @@
     "timeWeek": 1249,
     "timeMonth": 1350,
     "timeYear": 1309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "musikfest-2020.de",
@@ -236,7 +236,7 @@
     "uptimeYear": "99.99%",
     "time": 937,
     "timeDay": 929,
-    "timeWeek": 919,
+    "timeWeek": 959,
     "timeMonth": 830,
     "timeYear": 937,
     "dailyMinutesDown": {

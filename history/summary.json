@@ -4,18 +4,20 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 515,
+    "timeDay": 545,
     "timeWeek": 590,
     "timeMonth": 634,
     "timeYear": 587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "Plesk",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1927,
     "timeDay": 1417,
-    "timeWeek": 1676,
+    "timeWeek": 1629,
     "timeMonth": 1935,
     "timeYear": 1927,
     "dailyMinutesDown": {}
@@ -121,7 +123,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1407,
-    "timeDay": 1743,
+    "timeDay": 1762,
     "timeWeek": 1824,
     "timeMonth": 1564,
     "timeYear": 1407,
@@ -141,7 +143,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1833,
-    "timeDay": 1487,
+    "timeDay": 1592,
     "timeWeek": 1590,
     "timeMonth": 1632,
     "timeYear": 1833,
@@ -174,18 +176,16 @@
     "slug": "faschingsverein-oy-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1309,
     "timeDay": 1060,
     "timeWeek": 1249,
     "timeMonth": 1350,
     "timeYear": 1309,
-    "dailyMinutesDown": {
-      "2022-02-18": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "musikfest-2020.de",
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 1086,
     "timeDay": 781,
-    "timeWeek": 854,
+    "timeWeek": 866,
     "timeMonth": 867,
     "timeYear": 1086,
     "dailyMinutesDown": {}

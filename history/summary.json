@@ -40,19 +40,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1923,
     "timeDay": 1453,
-    "timeWeek": 1616,
+    "timeWeek": 1549,
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
-      "2022-02-18": 5
+      "2022-02-18": 0
     }
   },
   {
@@ -62,13 +62,13 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 550,
-    "timeDay": 447,
-    "timeWeek": 562,
+    "timeDay": 463,
+    "timeWeek": 555,
     "timeMonth": 615,
     "timeYear": 550,
     "dailyMinutesDown": {
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 797,
     "timeDay": 794,
-    "timeWeek": 857,
+    "timeWeek": 872,
     "timeMonth": 834,
     "timeYear": 797,
     "dailyMinutesDown": {}
@@ -123,8 +123,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1407,
-    "timeDay": 1762,
-    "timeWeek": 1824,
+    "timeDay": 1633,
+    "timeWeek": 1845,
     "timeMonth": 1564,
     "timeYear": 1407,
     "dailyMinutesDown": {

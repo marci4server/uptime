@@ -42,18 +42,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1913,
     "timeDay": 1820,
     "timeWeek": 1607,
     "timeMonth": 1909,
     "timeYear": 1913,
-    "dailyMinutesDown": {
-      "2022-02-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gfl.marci4.de",
@@ -200,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 1424,
     "timeDay": 1095,
-    "timeWeek": 975,
+    "timeWeek": 985,
     "timeMonth": 1194,
     "timeYear": 1424,
     "dailyMinutesDown": {}
@@ -228,9 +226,9 @@
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -240,6 +238,7 @@
     "timeMonth": 847,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2022-02-20": 0,
       "2022-02-17": 19
     }
   },

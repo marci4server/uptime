@@ -113,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1472,
     "timeDay": 1686,
     "timeWeek": 1748,
     "timeMonth": 1689,
     "timeYear": 1472,
-    "dailyMinutesDown": {
-      "2022-03-30": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kljb-lauben.de",
@@ -186,9 +184,9 @@
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +195,9 @@
     "timeWeek": 914,
     "timeMonth": 886,
     "timeYear": 1279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "saegesucht.de",

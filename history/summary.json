@@ -130,9 +130,9 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 1436,
     "timeMonth": 1406,
     "timeYear": 1704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "elektro-oppold.de",
@@ -186,18 +188,16 @@
     "slug": "musikfest-2020-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1277,
     "timeDay": 997,
     "timeWeek": 921,
     "timeMonth": 889,
     "timeYear": 1277,
-    "dailyMinutesDown": {
-      "2022-03-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "saegesucht.de",

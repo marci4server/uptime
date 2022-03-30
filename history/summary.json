@@ -184,19 +184,19 @@
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1279,
-    "timeDay": 1026,
-    "timeWeek": 914,
-    "timeMonth": 886,
-    "timeYear": 1279,
+    "time": 1277,
+    "timeDay": 997,
+    "timeWeek": 921,
+    "timeMonth": 889,
+    "timeYear": 1277,
     "dailyMinutesDown": {
-      "2022-03-30": 0
+      "2022-03-30": 6
     }
   },
   {

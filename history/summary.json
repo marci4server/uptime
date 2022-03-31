@@ -76,9 +76,9 @@
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 759,
     "timeMonth": 842,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -113,19 +115,17 @@
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1475,
     "timeDay": 1685,
     "timeWeek": 1718,
     "timeMonth": 1689,
     "timeYear": 1475,
-    "dailyMinutesDown": {
-      "2022-03-31": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kljb-lauben.de",

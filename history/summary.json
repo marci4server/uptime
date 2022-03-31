@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 650,
+    "timeDay": 535,
     "timeWeek": 629,
     "timeMonth": 603,
     "timeYear": 594,
@@ -112,9 +112,9 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 1719,
     "timeMonth": 1688,
     "timeYear": 1474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "kljb-lauben.de",
@@ -137,7 +139,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1728,
-    "timeDay": 2886,
+    "timeDay": 1375,
     "timeWeek": 1899,
     "timeMonth": 1540,
     "timeYear": 1728,
@@ -168,18 +170,16 @@
     "slug": "faschingsverein-oy-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1304,
     "timeDay": 1161,
     "timeWeek": 1345,
     "timeMonth": 1284,
     "timeYear": 1304,
-    "dailyMinutesDown": {
-      "2022-03-31": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "musikfest-2020.de",
@@ -193,7 +193,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1273,
-    "timeDay": 840,
+    "timeDay": 713,
     "timeWeek": 892,
     "timeMonth": 883,
     "timeYear": 1273,

@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1794,
-    "timeDay": 1147,
+    "timeDay": 1160,
     "timeWeek": 1335,
     "timeMonth": 1468,
     "timeYear": 1794,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
-    "timeDay": 374,
+    "timeDay": 430,
     "timeWeek": 484,
     "timeMonth": 547,
     "timeYear": 550,
@@ -78,18 +78,16 @@
     "slug": "bot-marci4-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 682,
+    "timeDay": 712,
     "timeWeek": 764,
     "timeMonth": 841,
     "timeYear": 812,
-    "dailyMinutesDown": {
-      "2022-03-31": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -222,9 +220,9 @@
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -233,7 +231,9 @@
     "timeWeek": 871,
     "timeMonth": 930,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "prinzessin-gugelhupf.de",

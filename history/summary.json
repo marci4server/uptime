@@ -130,9 +130,9 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 1964,
     "timeMonth": 1545,
     "timeYear": 1730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "elektro-oppold.de",

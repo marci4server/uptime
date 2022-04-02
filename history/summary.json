@@ -6,9 +6,9 @@
     "slug": "marci4-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 592,
     "timeDay": 575,
@@ -16,7 +16,7 @@
     "timeMonth": 599,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-04-01": 27
+      "2022-04-01": 17
     }
   },
   {

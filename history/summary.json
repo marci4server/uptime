@@ -78,9 +78,9 @@
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 773,
     "timeMonth": 847,
     "timeYear": 813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "bot.marci4.de - WebSocket",

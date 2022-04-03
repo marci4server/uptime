@@ -44,18 +44,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1785,
     "timeDay": 1473,
     "timeWeek": 1415,
     "timeMonth": 1480,
     "timeYear": 1785,
-    "dailyMinutesDown": {
-      "2022-04-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gfl.marci4.de",
@@ -98,19 +96,19 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de-web-socket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 782,
-    "timeWeek": 704,
-    "timeMonth": 733,
-    "timeYear": 688,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 689,
+    "timeDay": 805,
+    "timeWeek": 719,
+    "timeMonth": 736,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 18
     }
   },
   {

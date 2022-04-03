@@ -228,9 +228,9 @@
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -239,7 +239,9 @@
     "timeWeek": 824,
     "timeMonth": 936,
     "timeYear": 934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "prinzessin-gugelhupf.de",

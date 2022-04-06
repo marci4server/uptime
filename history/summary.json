@@ -40,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1570,
     "timeMonth": 1530,
     "timeYear": 1773,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "gfl.marci4.de",
@@ -114,18 +116,16 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1506,
     "timeDay": 1732,
     "timeWeek": 1857,
     "timeMonth": 1752,
     "timeYear": 1506,
-    "dailyMinutesDown": {
-      "2022-04-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kljb-lauben.de",

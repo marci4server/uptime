@@ -114,9 +114,9 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 1806,
     "timeMonth": 1721,
     "timeYear": 1506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   },
   {
     "name": "kljb-lauben.de",
@@ -140,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 1700,
     "timeDay": 1724,
-    "timeWeek": 1413,
+    "timeWeek": 1410,
     "timeMonth": 1537,
     "timeYear": 1700,
     "dailyMinutesDown": {}

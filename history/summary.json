@@ -4,10 +4,10 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
@@ -15,7 +15,9 @@
     "timeWeek": 584,
     "timeMonth": 591,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 1
+    }
   },
   {
     "name": "Plesk",
@@ -40,10 +42,10 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1755,
@@ -51,17 +53,19 @@
     "timeWeek": 1576,
     "timeMonth": 1509,
     "timeYear": 1755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 1
+    }
   },
   {
     "name": "gfl.marci4.de",
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 550,
@@ -70,6 +74,7 @@
     "timeMonth": 541,
     "timeYear": 550,
     "dailyMinutesDown": {
+      "2022-04-11": 1,
       "2022-04-08": 17
     }
   },
@@ -78,10 +83,10 @@
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 820,
@@ -89,7 +94,9 @@
     "timeWeek": 887,
     "timeMonth": 849,
     "timeYear": 820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 1
+    }
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -114,10 +121,10 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1506,
@@ -125,17 +132,19 @@
     "timeWeek": 1681,
     "timeMonth": 1701,
     "timeYear": 1506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 1
+    }
   },
   {
     "name": "kljb-lauben.de",
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1697,
@@ -143,16 +152,18 @@
     "timeWeek": 1478,
     "timeMonth": 1538,
     "timeYear": 1697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 1
+    }
   },
   {
     "name": "elektro-oppold.de",
     "url": "https://elektro-oppold.de",
     "icon": "https://favicons.githubusercontent.com/elektro-oppold.de",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,16 +172,18 @@
     "timeWeek": 735,
     "timeMonth": 754,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "faschingsverein-oy.de",
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,16 +192,18 @@
     "timeWeek": 1290,
     "timeMonth": 1283,
     "timeYear": 1302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "musikfest-2020.de",
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,16 +212,18 @@
     "timeWeek": 1006,
     "timeMonth": 931,
     "timeYear": 1240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "saegesucht.de",
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,18 +232,20 @@
     "timeWeek": 882,
     "timeMonth": 944,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "sw-vt.de",
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
+    "uptimeDay": "99.22%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 925,
     "timeDay": 782,
@@ -234,6 +253,7 @@
     "timeMonth": 902,
     "timeYear": 925,
     "dailyMinutesDown": {
+      "2022-04-11": 0,
       "2022-04-10": 11
     }
   },
@@ -242,9 +262,9 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,6 +273,8 @@
     "timeWeek": 876,
     "timeMonth": 891,
     "timeYear": 863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   }
 ]

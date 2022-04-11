@@ -4,9 +4,9 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.48%",
+    "uptimeDay": "95.46%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
@@ -42,10 +42,10 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 1750,
@@ -62,11 +62,11 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 553,
     "timeDay": 594,
@@ -74,7 +74,7 @@
     "timeMonth": 551,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-04-11": 71,
+      "2022-04-11": 65,
       "2022-04-08": 17
     }
   },
@@ -85,9 +85,9 @@
     "slug": "bot-marci4-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 822,
     "timeDay": 862,
@@ -95,7 +95,7 @@
     "timeMonth": 849,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   },
   {
@@ -123,9 +123,9 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 1529,
     "timeDay": 1905,
@@ -133,7 +133,7 @@
     "timeMonth": 1752,
     "timeYear": 1529,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   },
   {
@@ -143,9 +143,9 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 1681,
     "timeDay": 1365,
@@ -153,7 +153,7 @@
     "timeMonth": 1499,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2022-04-11": 87
+      "2022-04-11": 81
     }
   },
   {
@@ -163,9 +163,9 @@
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 730,
     "timeDay": 722,
@@ -173,7 +173,7 @@
     "timeMonth": 750,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   },
   {
@@ -183,9 +183,9 @@
     "slug": "faschingsverein-oy-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 1302,
     "timeDay": 1287,
@@ -193,7 +193,7 @@
     "timeMonth": 1287,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   },
   {
@@ -203,9 +203,9 @@
     "slug": "musikfest-2020-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 1235,
     "timeDay": 1056,
@@ -213,7 +213,7 @@
     "timeMonth": 949,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   },
   {
@@ -223,9 +223,9 @@
     "slug": "saegesucht-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 1024,
     "timeDay": 826,
@@ -233,7 +233,7 @@
     "timeMonth": 929,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   },
   {
@@ -243,9 +243,9 @@
     "slug": "sw-vt-de",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
     "time": 923,
     "timeDay": 807,
@@ -253,7 +253,7 @@
     "timeMonth": 895,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2022-04-11": 71,
+      "2022-04-11": 65,
       "2022-04-10": 11
     }
   },
@@ -264,17 +264,17 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 862,
     "timeDay": 843,
-    "timeWeek": 886,
+    "timeWeek": 881,
     "timeMonth": 887,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2022-04-11": 71
+      "2022-04-11": 65
     }
   }
 ]

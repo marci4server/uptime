@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1739,
-    "timeDay": 1446,
-    "timeWeek": 1519,
+    "timeDay": 1416,
+    "timeWeek": 1521,
     "timeMonth": 1528,
     "timeYear": 1739,
     "dailyMinutesDown": {}
@@ -79,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 825,
     "timeDay": 823,
     "timeWeek": 865,
     "timeMonth": 860,
     "timeYear": 825,
-    "dailyMinutesDown": {
-      "2022-04-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -124,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 1533,
     "timeDay": 1452,
-    "timeWeek": 1725,
+    "timeWeek": 1724,
     "timeMonth": 1762,
     "timeYear": 1533,
     "dailyMinutesDown": {}
@@ -179,7 +177,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1309,
-    "timeDay": 1403,
+    "timeDay": 1387,
     "timeWeek": 1338,
     "timeMonth": 1321,
     "timeYear": 1309,
@@ -190,9 +188,9 @@
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,7 +199,9 @@
     "timeWeek": 1012,
     "timeMonth": 967,
     "timeYear": 1230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "saegesucht.de",
@@ -251,7 +251,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 847,
+    "timeDay": 861,
     "timeWeek": 858,
     "timeMonth": 894,
     "timeYear": 863,

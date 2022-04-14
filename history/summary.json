@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1738,
     "timeDay": 1605,
-    "timeWeek": 1526,
+    "timeWeek": 1539,
     "timeMonth": 1525,
     "timeYear": 1738,
     "dailyMinutesDown": {}
@@ -172,9 +172,9 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,7 +183,9 @@
     "timeWeek": 1326,
     "timeMonth": 1315,
     "timeYear": 1308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "musikfest-2020.de",
@@ -209,19 +211,17 @@
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1018,
     "timeDay": 770,
     "timeWeek": 828,
     "timeMonth": 926,
     "timeYear": 1018,
-    "dailyMinutesDown": {
-      "2022-04-14": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sw-vt.de",

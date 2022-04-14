@@ -60,9 +60,9 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 575,
     "timeMonth": 553,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "bot.marci4.de",

@@ -62,12 +62,12 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 552,
-    "timeDay": 481,
+    "timeDay": 484,
     "timeWeek": 575,
     "timeMonth": 552,
     "timeYear": 552,
@@ -208,18 +208,20 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1018,
     "timeDay": 931,
-    "timeWeek": 845,
+    "timeWeek": 853,
     "timeMonth": 927,
     "timeYear": 1018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-15": 0
+    }
   },
   {
     "name": "sw-vt.de",
@@ -234,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 920,
     "timeDay": 921,
-    "timeWeek": 841,
+    "timeWeek": 847,
     "timeMonth": 897,
     "timeYear": 920,
     "dailyMinutesDown": {}

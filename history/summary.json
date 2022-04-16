@@ -116,9 +116,9 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 1756,
     "timeMonth": 1748,
     "timeYear": 1535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   },
   {
     "name": "kljb-lauben.de",
@@ -156,18 +158,16 @@
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 731,
     "timeDay": 801,
     "timeWeek": 737,
     "timeMonth": 752,
     "timeYear": 731,
-    "dailyMinutesDown": {
-      "2022-04-16": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "faschingsverein-oy.de",

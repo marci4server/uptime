@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 595,
     "timeDay": 620,
-    "timeWeek": 594,
+    "timeWeek": 592,
     "timeMonth": 605,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 1097,
     "timeDay": 1149,
-    "timeWeek": 1090,
+    "timeWeek": 1081,
     "timeMonth": 1097,
     "timeYear": 1097,
     "dailyMinutesDown": {}
@@ -42,18 +42,20 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1733,
-    "timeDay": 1644,
-    "timeWeek": 1553,
+    "timeDay": 1724,
+    "timeWeek": 1564,
     "timeMonth": 1542,
     "timeYear": 1733,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "gfl.marci4.de",
@@ -68,7 +70,7 @@
     "uptimeYear": "99.99%",
     "time": 564,
     "timeDay": 1800,
-    "timeWeek": 749,
+    "timeWeek": 783,
     "timeMonth": 589,
     "timeYear": 564,
     "dailyMinutesDown": {
@@ -88,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 825,
     "timeDay": 794,
-    "timeWeek": 822,
+    "timeWeek": 795,
     "timeMonth": 858,
     "timeYear": 825,
     "dailyMinutesDown": {}
@@ -106,7 +108,7 @@
     "uptimeYear": "100.00%",
     "time": 691,
     "timeDay": 781,
-    "timeWeek": 713,
+    "timeWeek": 707,
     "timeMonth": 723,
     "timeYear": 691,
     "dailyMinutesDown": {}
@@ -124,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 1537,
     "timeDay": 1628,
-    "timeWeek": 1601,
+    "timeWeek": 1572,
     "timeMonth": 1750,
     "timeYear": 1537,
     "dailyMinutesDown": {}
@@ -137,12 +139,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1666,
     "timeDay": 1325,
-    "timeWeek": 1484,
+    "timeWeek": 1350,
     "timeMonth": 1520,
     "timeYear": 1666,
     "dailyMinutesDown": {
@@ -162,7 +164,7 @@
     "uptimeYear": "100.00%",
     "time": 731,
     "timeDay": 761,
-    "timeWeek": 729,
+    "timeWeek": 724,
     "timeMonth": 745,
     "timeYear": 731,
     "dailyMinutesDown": {}
@@ -173,19 +175,17 @@
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1310,
     "timeDay": 1290,
-    "timeWeek": 1349,
+    "timeWeek": 1313,
     "timeMonth": 1340,
     "timeYear": 1310,
-    "dailyMinutesDown": {
-      "2022-04-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "musikfest-2020.de",
@@ -200,7 +200,7 @@
     "uptimeYear": "100.00%",
     "time": 1220,
     "timeDay": 995,
-    "timeWeek": 961,
+    "timeWeek": 952,
     "timeMonth": 980,
     "timeYear": 1220,
     "dailyMinutesDown": {}
@@ -217,8 +217,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
-    "timeDay": 1018,
-    "timeWeek": 904,
+    "timeDay": 939,
+    "timeWeek": 891,
     "timeMonth": 927,
     "timeYear": 1016,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 920,
     "timeDay": 924,
-    "timeWeek": 856,
+    "timeWeek": 831,
     "timeMonth": 888,
     "timeYear": 920,
     "dailyMinutesDown": {}
@@ -254,7 +254,7 @@
     "uptimeYear": "100.00%",
     "time": 863,
     "timeDay": 934,
-    "timeWeek": 844,
+    "timeWeek": 837,
     "timeMonth": 895,
     "timeYear": 863,
     "dailyMinutesDown": {}

@@ -42,19 +42,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1733,
-    "timeDay": 1621,
-    "timeWeek": 1596,
-    "timeMonth": 1543,
-    "timeYear": 1733,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1731,
+    "timeDay": 1504,
+    "timeWeek": 1575,
+    "timeMonth": 1541,
+    "timeYear": 1731,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 14
     }
   },
   {

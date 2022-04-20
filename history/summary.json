@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1731,
     "timeDay": 1504,
     "timeWeek": 1575,
     "timeMonth": 1541,
     "timeYear": 1731,
-    "dailyMinutesDown": {
-      "2022-04-20": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gfl.marci4.de",
@@ -181,7 +179,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1311,
-    "timeDay": 1297,
+    "timeDay": 1461,
     "timeWeek": 1343,
     "timeMonth": 1343,
     "timeYear": 1311,
@@ -200,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 1218,
     "timeDay": 922,
-    "timeWeek": 955,
+    "timeWeek": 982,
     "timeMonth": 980,
     "timeYear": 1218,
     "dailyMinutesDown": {}
@@ -248,9 +246,9 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -259,6 +257,8 @@
     "timeWeek": 869,
     "timeMonth": 897,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   }
 ]

@@ -246,19 +246,19 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 1035,
-    "timeWeek": 869,
-    "timeMonth": 897,
-    "timeYear": 864,
+    "time": 865,
+    "timeDay": 1026,
+    "timeWeek": 888,
+    "timeMonth": 899,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 8
     }
   }
 ]

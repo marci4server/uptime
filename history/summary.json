@@ -90,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 1006,
-    "timeWeek": 792,
+    "timeWeek": 803,
     "timeMonth": 847,
     "timeYear": 824,
     "dailyMinutesDown": {}
@@ -249,19 +249,19 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 977,
-    "timeWeek": 853,
-    "timeMonth": 875,
+    "timeDay": 936,
+    "timeWeek": 857,
+    "timeMonth": 876,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 6
     }
   }
 ]

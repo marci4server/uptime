@@ -6,9 +6,9 @@
     "slug": "marci4-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 596,
     "timeDay": 715,
@@ -16,7 +16,6 @@
     "timeMonth": 609,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-04-25": 12,
       "2022-04-13": 16
     }
   },
@@ -51,7 +50,7 @@
     "uptimeYear": "99.99%",
     "time": 1719,
     "timeDay": 1441,
-    "timeWeek": 1441,
+    "timeWeek": 1437,
     "timeMonth": 1517,
     "timeYear": 1719,
     "dailyMinutesDown": {
@@ -63,11 +62,11 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 564,
     "timeDay": 483,
@@ -75,6 +74,7 @@
     "timeMonth": 589,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2022-04-25": 0,
       "2022-04-14": 20
     }
   },

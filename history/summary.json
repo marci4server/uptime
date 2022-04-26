@@ -11,7 +11,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 597,
-    "timeDay": 692,
+    "timeDay": 742,
     "timeWeek": 648,
     "timeMonth": 610,
     "timeYear": 597,
@@ -44,9 +44,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1722,
     "timeDay": 1883,
@@ -54,7 +54,7 @@
     "timeMonth": 1533,
     "timeYear": 1722,
     "dailyMinutesDown": {
-      "2022-04-26": 27,
+      "2022-04-26": 19,
       "2022-04-22": 17
     }
   },
@@ -70,7 +70,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 564,
-    "timeDay": 622,
+    "timeDay": 614,
     "timeWeek": 581,
     "timeMonth": 589,
     "timeYear": 564,
@@ -175,18 +175,20 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1309,
     "timeDay": 1348,
-    "timeWeek": 1268,
+    "timeWeek": 1287,
     "timeMonth": 1331,
     "timeYear": 1309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "musikfest-2020.de",

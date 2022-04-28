@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 596,
-    "timeDay": 433,
-    "timeWeek": 609,
+    "time": 595,
+    "timeDay": 412,
+    "timeWeek": 596,
     "timeMonth": 607,
-    "timeYear": 596,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2022-04-13": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1094,
-    "timeDay": 785,
-    "timeWeek": 1019,
+    "time": 1092,
+    "timeDay": 794,
+    "timeWeek": 1017,
     "timeMonth": 1063,
-    "timeYear": 1094,
+    "timeYear": 1092,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 1719,
-    "timeDay": 1455,
-    "timeWeek": 1498,
-    "timeMonth": 1534,
-    "timeYear": 1719,
+    "time": 1717,
+    "timeDay": 1484,
+    "timeWeek": 1507,
+    "timeMonth": 1536,
+    "timeYear": 1717,
     "dailyMinutesDown": {
       "2022-04-26": 19,
       "2022-04-22": 17
@@ -70,7 +70,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 563,
-    "timeDay": 412,
+    "timeDay": 428,
     "timeWeek": 552,
     "timeMonth": 588,
     "timeYear": 563,
@@ -85,18 +85,16 @@
     "slug": "bot-marci4-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 1046,
-    "timeWeek": 872,
+    "time": 826,
+    "timeDay": 999,
+    "timeWeek": 868,
     "timeMonth": 856,
-    "timeYear": 827,
-    "dailyMinutesDown": {
-      "2022-04-27": 6
-    }
+    "timeYear": 826,
+    "dailyMinutesDown": {}
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -109,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 498,
-    "timeWeek": 669,
+    "time": 690,
+    "timeDay": 494,
+    "timeWeek": 665,
     "timeMonth": 704,
-    "timeYear": 691,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   },
   {
@@ -128,9 +126,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1544,
-    "timeDay": 1573,
-    "timeWeek": 1645,
-    "timeMonth": 1723,
+    "timeDay": 1767,
+    "timeWeek": 1635,
+    "timeMonth": 1733,
     "timeYear": 1544,
     "dailyMinutesDown": {
       "2022-04-27": 37
@@ -147,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1651,
-    "timeDay": 1232,
+    "time": 1648,
+    "timeDay": 1185,
     "timeWeek": 1314,
-    "timeMonth": 1487,
-    "timeYear": 1651,
+    "timeMonth": 1488,
+    "timeYear": 1648,
     "dailyMinutesDown": {
       "2022-04-12": 16
     }
@@ -167,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 731,
+    "time": 730,
     "timeDay": 509,
-    "timeWeek": 719,
-    "timeMonth": 735,
-    "timeYear": 731,
+    "timeWeek": 717,
+    "timeMonth": 734,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   },
   {
@@ -185,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1307,
-    "timeDay": 916,
-    "timeWeek": 1220,
+    "time": 1305,
+    "timeDay": 922,
+    "timeWeek": 1204,
     "timeMonth": 1322,
-    "timeYear": 1307,
+    "timeYear": 1305,
     "dailyMinutesDown": {}
   },
   {
@@ -203,11 +201,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1204,
-    "timeDay": 729,
-    "timeWeek": 858,
-    "timeMonth": 968,
-    "timeYear": 1204,
+    "time": 1202,
+    "timeDay": 682,
+    "timeWeek": 860,
+    "timeMonth": 969,
+    "timeYear": 1202,
     "dailyMinutesDown": {}
   },
   {
@@ -221,11 +219,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 1009,
-    "timeDay": 688,
-    "timeWeek": 851,
-    "timeMonth": 873,
-    "timeYear": 1009,
+    "time": 1007,
+    "timeDay": 715,
+    "timeWeek": 863,
+    "timeMonth": 875,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2022-04-21": 19,
       "2022-04-20": 24
@@ -242,11 +240,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 917,
-    "timeDay": 764,
-    "timeWeek": 834,
-    "timeMonth": 851,
-    "timeYear": 917,
+    "time": 915,
+    "timeDay": 748,
+    "timeWeek": 830,
+    "timeMonth": 850,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2022-04-27": 47
     }
@@ -258,15 +256,15 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 862,
-    "timeDay": 649,
-    "timeWeek": 840,
+    "time": 861,
+    "timeDay": 608,
+    "timeWeek": 820,
     "timeMonth": 864,
-    "timeYear": 862,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2022-04-26": 19
     }

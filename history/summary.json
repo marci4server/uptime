@@ -44,9 +44,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1715,
     "timeDay": 1589,
@@ -54,7 +54,6 @@
     "timeMonth": 1538,
     "timeYear": 1715,
     "dailyMinutesDown": {
-      "2022-04-29": 13,
       "2022-04-26": 19,
       "2022-04-22": 17
     }
@@ -255,11 +254,11 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 861,
     "timeDay": 937,
@@ -267,6 +266,7 @@
     "timeMonth": 866,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2022-04-29": 0,
       "2022-04-26": 19
     }
   }

@@ -85,18 +85,16 @@
     "slug": "bot-marci4-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
     "timeDay": 776,
     "timeWeek": 871,
     "timeMonth": 852,
     "timeYear": 826,
-    "dailyMinutesDown": {
-      "2022-04-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -179,9 +177,9 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,7 +188,9 @@
     "timeWeek": 1261,
     "timeMonth": 1302,
     "timeYear": 1305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 0
+    }
   },
   {
     "name": "musikfest-2020.de",

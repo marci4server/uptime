@@ -13,7 +13,7 @@
     "time": 596,
     "timeDay": 433,
     "timeWeek": 609,
-    "timeMonth": 603,
+    "timeMonth": 602,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2022-04-13": 16
@@ -120,9 +120,9 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.10%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",

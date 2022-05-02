@@ -66,9 +66,9 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 563,
     "timeDay": 628,
@@ -76,7 +76,6 @@
     "timeMonth": 598,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-05-02": 10,
       "2022-04-14": 20
     }
   },
@@ -123,12 +122,12 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.96%",
+    "uptimeDay": "97.86%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
     "time": 1564,
-    "timeDay": 2617,
+    "timeDay": 2426,
     "timeWeek": 1856,
     "timeMonth": 1778,
     "timeYear": 1564,
@@ -142,9 +141,9 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -154,6 +153,7 @@
     "timeMonth": 1405,
     "timeYear": 1642,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-12": 16
     }
   },
@@ -207,7 +207,7 @@
     "time": 1197,
     "timeDay": 1084,
     "timeWeek": 911,
-    "timeMonth": 979,
+    "timeMonth": 980,
     "timeYear": 1197,
     "dailyMinutesDown": {}
   },

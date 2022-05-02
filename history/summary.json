@@ -64,11 +64,11 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 562,
     "timeDay": 621,
@@ -76,6 +76,7 @@
     "timeMonth": 597,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-14": 20
     }
   },
@@ -122,9 +123,9 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
     "time": 1564,
     "timeDay": 2617,
@@ -132,7 +133,6 @@
     "timeMonth": 1778,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2022-05-02": 9,
       "2022-05-01": 58,
       "2022-04-27": 37
     }

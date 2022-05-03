@@ -103,19 +103,19 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de-web-socket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 757,
-    "timeWeek": 656,
-    "timeMonth": 696,
-    "timeYear": 690,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 691,
+    "timeDay": 799,
+    "timeWeek": 679,
+    "timeMonth": 700,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-05-03": 0
+      "2022-05-03": 18
     }
   },
   {

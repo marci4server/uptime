@@ -6,12 +6,12 @@
     "slug": "marci4-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 597,
-    "timeDay": 615,
+    "timeDay": 580,
     "timeWeek": 601,
     "timeMonth": 603,
     "timeYear": 597,
@@ -51,8 +51,8 @@
     "uptimeYear": "99.98%",
     "time": 1708,
     "timeDay": 1410,
-    "timeWeek": 1508,
-    "timeMonth": 1551,
+    "timeWeek": 1492,
+    "timeMonth": 1554,
     "timeYear": 1708,
     "dailyMinutesDown": {
       "2022-05-01": 19,
@@ -165,9 +165,9 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://favicons.githubusercontent.com/elektro-oppold.de",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,7 +176,9 @@
     "timeWeek": 682,
     "timeMonth": 728,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "faschingsverein-oy.de",

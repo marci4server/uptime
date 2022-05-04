@@ -11,7 +11,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 597,
-    "timeDay": 606,
+    "timeDay": 576,
     "timeWeek": 606,
     "timeMonth": 607,
     "timeYear": 597,
@@ -202,9 +202,9 @@
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +213,9 @@
     "timeWeek": 946,
     "timeMonth": 982,
     "timeYear": 1195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "saegesucht.de",
@@ -264,9 +266,9 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 858,
     "timeDay": 700,
@@ -274,7 +276,6 @@
     "timeMonth": 852,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2022-05-04": 6,
       "2022-04-29": 29,
       "2022-04-26": 19
     }

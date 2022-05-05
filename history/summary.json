@@ -12,8 +12,8 @@
     "uptimeYear": "99.97%",
     "time": 597,
     "timeDay": 653,
-    "timeWeek": 626,
-    "timeMonth": 606,
+    "timeWeek": 616,
+    "timeMonth": 610,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2022-05-04": 16,
@@ -44,18 +44,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1706,
     "timeDay": 1364,
     "timeWeek": 1500,
-    "timeMonth": 1532,
+    "timeMonth": 1520,
     "timeYear": 1706,
     "dailyMinutesDown": {
+      "2022-05-05": 0,
       "2022-05-01": 19,
       "2022-04-26": 19,
       "2022-04-22": 17
@@ -75,7 +76,7 @@
     "time": 562,
     "timeDay": 472,
     "timeWeek": 529,
-    "timeMonth": 594,
+    "timeMonth": 601,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2022-04-14": 20
@@ -95,7 +96,7 @@
     "time": 825,
     "timeDay": 962,
     "timeWeek": 808,
-    "timeMonth": 853,
+    "timeMonth": 845,
     "timeYear": 825,
     "dailyMinutesDown": {}
   },
@@ -133,7 +134,7 @@
     "time": 1568,
     "timeDay": 1994,
     "timeWeek": 2027,
-    "timeMonth": 1767,
+    "timeMonth": 1758,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2022-05-01": 58,
@@ -147,14 +148,14 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1646,
-    "timeDay": 2243,
+    "timeDay": 1674,
     "timeWeek": 1596,
-    "timeMonth": 1445,
+    "timeMonth": 1438,
     "timeYear": 1646,
     "dailyMinutesDown": {
       "2022-05-04": 21,
@@ -175,7 +176,7 @@
     "time": 729,
     "timeDay": 652,
     "timeWeek": 696,
-    "timeMonth": 722,
+    "timeMonth": 714,
     "timeYear": 729,
     "dailyMinutesDown": {}
   },
@@ -193,7 +194,7 @@
     "time": 1303,
     "timeDay": 1218,
     "timeWeek": 1253,
-    "timeMonth": 1300,
+    "timeMonth": 1290,
     "timeYear": 1303,
     "dailyMinutesDown": {}
   },
@@ -211,7 +212,7 @@
     "time": 1192,
     "timeDay": 931,
     "timeWeek": 975,
-    "timeMonth": 981,
+    "timeMonth": 955,
     "timeYear": 1192,
     "dailyMinutesDown": {}
   },
@@ -229,7 +230,7 @@
     "time": 998,
     "timeDay": 779,
     "timeWeek": 805,
-    "timeMonth": 866,
+    "timeMonth": 853,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2022-05-03": 40,
@@ -251,7 +252,7 @@
     "time": 913,
     "timeDay": 914,
     "timeWeek": 859,
-    "timeMonth": 851,
+    "timeMonth": 843,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2022-04-27": 47
@@ -271,7 +272,7 @@
     "time": 859,
     "timeDay": 827,
     "timeWeek": 819,
-    "timeMonth": 853,
+    "timeMonth": 841,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2022-04-29": 29,

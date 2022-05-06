@@ -132,18 +132,16 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1644,
     "timeDay": 1489,
     "timeWeek": 1599,
     "timeMonth": 1440,
     "timeYear": 1644,
-    "dailyMinutesDown": {
-      "2022-05-06": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "elektro-oppold.de",
@@ -168,9 +166,9 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +177,9 @@
     "timeWeek": 1182,
     "timeMonth": 1283,
     "timeYear": 1301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "musikfest-2020.de",

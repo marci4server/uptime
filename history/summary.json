@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1570,
     "timeDay": 1864,
-    "timeWeek": 2019,
+    "timeWeek": 2098,
     "timeMonth": 1769,
     "timeYear": 1570,
     "dailyMinutesDown": {}
@@ -155,7 +155,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 728,
-    "timeDay": 721,
+    "timeDay": 656,
     "timeWeek": 670,
     "timeMonth": 710,
     "timeYear": 728,
@@ -222,9 +222,9 @@
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -233,7 +233,9 @@
     "timeWeek": 841,
     "timeMonth": 837,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "prinzessin-gugelhupf.de",

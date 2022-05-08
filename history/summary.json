@@ -40,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1494,
     "timeMonth": 1527,
     "timeYear": 1702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-08": 0
+    }
   },
   {
     "name": "gfl.marci4.de",

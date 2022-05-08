@@ -242,17 +242,15 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 857,
     "timeDay": 682,
     "timeWeek": 813,
     "timeMonth": 837,
     "timeYear": 857,
-    "dailyMinutesDown": {
-      "2022-05-07": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -4,9 +4,9 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 611,
     "timeMonth": 613,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   },
   {
     "name": "Plesk",
@@ -123,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 1574,
     "timeDay": 1971,
-    "timeWeek": 1843,
+    "timeWeek": 1849,
     "timeMonth": 1784,
     "timeYear": 1574,
     "dailyMinutesDown": {}

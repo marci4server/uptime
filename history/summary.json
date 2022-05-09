@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 785,
-    "timeWeek": 611,
-    "timeMonth": 613,
-    "timeYear": 597,
+    "time": 596,
+    "timeDay": 658,
+    "timeWeek": 594,
+    "timeMonth": 610,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-05-09": 0
+      "2022-05-09": 6
     }
   },
   {

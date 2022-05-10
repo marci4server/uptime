@@ -42,12 +42,12 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
     "time": 1708,
-    "timeDay": 2027,
+    "timeDay": 1282,
     "timeWeek": 1689,
     "timeMonth": 1568,
     "timeYear": 1708,
@@ -153,9 +153,9 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://favicons.githubusercontent.com/elektro-oppold.de",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -165,6 +165,7 @@
     "timeMonth": 717,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2022-05-10": 0,
       "2022-05-08": 16
     }
   },
@@ -220,7 +221,7 @@
     "uptimeYear": "100.00%",
     "time": 993,
     "timeDay": 916,
-    "timeWeek": 771,
+    "timeWeek": 770,
     "timeMonth": 854,
     "timeYear": 993,
     "dailyMinutesDown": {}

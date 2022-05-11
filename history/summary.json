@@ -13,7 +13,7 @@
     "time": 596,
     "timeDay": 537,
     "timeWeek": 590,
-    "timeMonth": 606,
+    "timeMonth": 597,
     "timeYear": 596,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1707,
     "timeDay": 1443,
     "timeWeek": 1692,
-    "timeMonth": 1568,
+    "timeMonth": 1557,
     "timeYear": 1707,
     "dailyMinutesDown": {
       "2022-05-09": 48,
@@ -70,7 +70,7 @@
     "time": 563,
     "timeDay": 816,
     "timeWeek": 603,
-    "timeMonth": 610,
+    "timeMonth": 607,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -88,7 +88,7 @@
     "time": 825,
     "timeDay": 1015,
     "timeWeek": 832,
-    "timeMonth": 841,
+    "timeMonth": 838,
     "timeYear": 825,
     "dailyMinutesDown": {}
   },
@@ -124,7 +124,7 @@
     "time": 1577,
     "timeDay": 2023,
     "timeWeek": 1875,
-    "timeMonth": 1810,
+    "timeMonth": 1764,
     "timeYear": 1577,
     "dailyMinutesDown": {}
   },
@@ -142,7 +142,7 @@
     "time": 1643,
     "timeDay": 1411,
     "timeWeek": 1718,
-    "timeMonth": 1460,
+    "timeMonth": 1463,
     "timeYear": 1643,
     "dailyMinutesDown": {
       "2022-05-09": 15
@@ -162,7 +162,7 @@
     "time": 729,
     "timeDay": 816,
     "timeWeek": 723,
-    "timeMonth": 724,
+    "timeMonth": 723,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2022-05-08": 16
@@ -182,7 +182,7 @@
     "time": 1301,
     "timeDay": 1441,
     "timeWeek": 1266,
-    "timeMonth": 1300,
+    "timeMonth": 1297,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2022-05-10": 20
@@ -202,7 +202,7 @@
     "time": 1182,
     "timeDay": 904,
     "timeWeek": 961,
-    "timeMonth": 969,
+    "timeMonth": 960,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2022-05-09": 33,
@@ -214,18 +214,20 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 992,
     "timeDay": 897,
     "timeWeek": 795,
-    "timeMonth": 854,
+    "timeMonth": 853,
     "timeYear": 992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   },
   {
     "name": "sw-vt.de",
@@ -241,7 +243,7 @@
     "time": 911,
     "timeDay": 970,
     "timeWeek": 870,
-    "timeMonth": 853,
+    "timeMonth": 855,
     "timeYear": 911,
     "dailyMinutesDown": {}
   },
@@ -259,7 +261,7 @@
     "time": 859,
     "timeDay": 968,
     "timeWeek": 838,
-    "timeMonth": 844,
+    "timeMonth": 842,
     "timeYear": 859,
     "dailyMinutesDown": {}
   }

@@ -177,9 +177,9 @@
     "slug": "faschingsverein-oy-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1300,
     "timeDay": 1319,
@@ -187,7 +187,6 @@
     "timeMonth": 1258,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2022-05-12": 6,
       "2022-05-10": 20
     }
   },

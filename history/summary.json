@@ -158,9 +158,9 @@
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 728,
     "timeDay": 592,
@@ -168,7 +168,6 @@
     "timeMonth": 722,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2022-05-14": 7,
       "2022-05-08": 16
     }
   },
@@ -197,9 +196,9 @@
     "url": "https://musikfest-2020.de/",
     "icon": "https://favicons.githubusercontent.com/musikfest-2020.de",
     "slug": "musikfest-2020-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
@@ -209,6 +208,7 @@
     "timeMonth": 948,
     "timeYear": 1179,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2022-05-09": 33,
       "2022-05-05": 22
     }
@@ -227,7 +227,7 @@
     "time": 990,
     "timeDay": 797,
     "timeWeek": 860,
-    "timeMonth": 858,
+    "timeMonth": 856,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2022-05-11": 19
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 910,
     "timeDay": 794,
-    "timeWeek": 877,
+    "timeWeek": 871,
     "timeMonth": 855,
     "timeYear": 910,
     "dailyMinutesDown": {}

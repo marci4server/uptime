@@ -6,18 +6,16 @@
     "slug": "marci4-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
     "timeDay": 535,
     "timeWeek": 579,
     "timeMonth": 601,
     "timeYear": 595,
-    "dailyMinutesDown": {
-      "2022-05-15": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plesk",
@@ -42,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
@@ -54,6 +52,7 @@
     "timeMonth": 1534,
     "timeYear": 1697,
     "dailyMinutesDown": {
+      "2022-05-15": 0,
       "2022-05-09": 48,
       "2022-05-08": 46
     }

@@ -4,9 +4,9 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 619,
     "timeMonth": 606,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-15": 0
+    }
   },
   {
     "name": "Plesk",
@@ -123,7 +125,7 @@
     "uptimeYear": "99.98%",
     "time": 1591,
     "timeDay": 2097,
-    "timeWeek": 2037,
+    "timeWeek": 2049,
     "timeMonth": 1854,
     "timeYear": 1591,
     "dailyMinutesDown": {
@@ -138,9 +140,9 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1640,
     "timeDay": 1421,
@@ -148,7 +150,6 @@
     "timeMonth": 1483,
     "timeYear": 1640,
     "dailyMinutesDown": {
-      "2022-05-15": 6,
       "2022-05-09": 15
     }
   },
@@ -164,7 +165,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 729,
-    "timeDay": 692,
+    "timeDay": 871,
     "timeWeek": 764,
     "timeMonth": 725,
     "timeYear": 729,

@@ -4,9 +4,9 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 586,
     "timeMonth": 597,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "Plesk",
@@ -48,7 +50,7 @@
     "uptimeYear": "99.95%",
     "time": 1697,
     "timeDay": 1712,
-    "timeWeek": 1421,
+    "timeWeek": 1439,
     "timeMonth": 1536,
     "timeYear": 1697,
     "dailyMinutesDown": {
@@ -121,9 +123,9 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 1588,
     "timeDay": 1293,
@@ -131,7 +133,6 @@
     "timeMonth": 1828,
     "timeYear": 1588,
     "dailyMinutesDown": {
-      "2022-05-16": 5,
       "2022-05-13": 16,
       "2022-05-12": 22
     }
@@ -144,12 +145,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1641,
     "timeDay": 1721,
-    "timeWeek": 1614,
+    "timeWeek": 1549,
     "timeMonth": 1495,
     "timeYear": 1641,
     "dailyMinutesDown": {

@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 656,
-    "timeWeek": 594,
+    "timeWeek": 585,
     "timeMonth": 598,
     "timeYear": 596,
     "dailyMinutesDown": {}
@@ -62,9 +62,9 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "34.97%",
+    "uptimeDay": "46.61%",
     "uptimeWeek": "90.52%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.62%",
@@ -142,9 +142,9 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1640,
     "timeDay": 1660,
@@ -152,7 +152,6 @@
     "timeMonth": 1496,
     "timeYear": 1640,
     "dailyMinutesDown": {
-      "2022-05-16": 6,
       "2022-05-09": 15
     }
   },

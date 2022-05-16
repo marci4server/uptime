@@ -6,18 +6,16 @@
     "slug": "marci4-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 656,
     "timeWeek": 594,
     "timeMonth": 598,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2022-05-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plesk",
@@ -66,12 +64,12 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "33.63%",
+    "uptimeDay": "34.56%",
     "uptimeWeek": "90.52%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.62%",
     "time": 561,
-    "timeDay": 461,
+    "timeDay": 535,
     "timeWeek": 546,
     "timeMonth": 603,
     "timeYear": 561,
@@ -142,11 +140,11 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1641,
     "timeDay": 1721,
@@ -154,6 +152,7 @@
     "timeMonth": 1495,
     "timeYear": 1641,
     "dailyMinutesDown": {
+      "2022-05-16": 0,
       "2022-05-09": 15
     }
   },

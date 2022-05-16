@@ -64,7 +64,7 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "50.53%",
+    "uptimeDay": "51.34%",
     "uptimeWeek": "90.52%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.62%",
@@ -83,9 +83,9 @@
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,7 +94,9 @@
     "timeWeek": 848,
     "timeMonth": 819,
     "timeYear": 825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -162,9 +164,9 @@
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 728,
     "timeDay": 591,
@@ -172,7 +174,6 @@
     "timeMonth": 713,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2022-05-16": 11,
       "2022-05-08": 16
     }
   },

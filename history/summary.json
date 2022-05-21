@@ -187,9 +187,9 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -199,6 +199,7 @@
     "timeMonth": 1256,
     "timeYear": 1300,
     "dailyMinutesDown": {
+      "2022-05-21": 0,
       "2022-05-10": 20
     }
   },

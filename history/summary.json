@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 595,
     "timeDay": 666,
-    "timeWeek": 577,
+    "timeWeek": 590,
     "timeMonth": 598,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "time": 1687,
     "timeDay": 1676,
     "timeWeek": 1495,
-    "timeMonth": 1533,
+    "timeMonth": 1541,
     "timeYear": 1687,
     "dailyMinutesDown": {
       "2022-05-22": 58,
@@ -229,9 +229,9 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -241,6 +241,7 @@
     "timeMonth": 838,
     "timeYear": 985,
     "dailyMinutesDown": {
+      "2022-05-22": 0,
       "2022-05-11": 19
     }
   },

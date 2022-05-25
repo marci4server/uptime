@@ -76,7 +76,7 @@
     "time": 562,
     "timeDay": 605,
     "timeWeek": 575,
-    "timeMonth": 553,
+    "timeMonth": 551,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2022-05-16": 697,
@@ -149,9 +149,9 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -161,6 +161,7 @@
     "timeMonth": 1530,
     "timeYear": 1636,
     "dailyMinutesDown": {
+      "2022-05-25": 0,
       "2022-05-18": 24,
       "2022-05-09": 15
     }

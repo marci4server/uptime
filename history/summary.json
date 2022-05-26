@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 596,
     "timeDay": 643,
-    "timeWeek": 623,
+    "timeWeek": 647,
     "timeMonth": 593,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -129,12 +129,12 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.73%",
+    "uptimeDay": "97.63%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 1597,
-    "timeDay": 1687,
+    "timeDay": 1878,
     "timeWeek": 1797,
     "timeMonth": 1848,
     "timeYear": 1597,
@@ -270,9 +270,9 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,6 +281,8 @@
     "timeWeek": 813,
     "timeMonth": 812,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-26": 0
+    }
   }
 ]

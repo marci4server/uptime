@@ -69,18 +69,18 @@
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.64%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.64%",
     "time": 563,
     "timeDay": 624,
     "timeWeek": 606,
     "timeMonth": 564,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-05-28": 0,
+      "2022-05-28": 18,
       "2022-05-16": 697,
       "2022-05-15": 259
     }
@@ -237,9 +237,9 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -249,6 +249,7 @@
     "timeMonth": 828,
     "timeYear": 980,
     "dailyMinutesDown": {
+      "2022-05-28": 0,
       "2022-05-11": 19
     }
   },

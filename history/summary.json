@@ -47,12 +47,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.92%",
     "time": 1678,
     "timeDay": 1334,
-    "timeWeek": 1470,
+    "timeWeek": 1451,
     "timeMonth": 1512,
     "timeYear": 1678,
     "dailyMinutesDown": {
@@ -70,12 +70,12 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "91.37%",
+    "uptimeDay": "94.42%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.60%",
     "time": 563,
-    "timeDay": 660,
+    "timeDay": 581,
     "timeWeek": 598,
     "timeMonth": 567,
     "timeYear": 563,
@@ -90,9 +90,9 @@
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
@@ -102,6 +102,7 @@
     "timeMonth": 821,
     "timeYear": 825,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-05-17": 39,
       "2022-05-16": 4
     }
@@ -238,18 +239,17 @@
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 979,
-    "timeDay": 846,
+    "timeDay": 878,
     "timeWeek": 839,
     "timeMonth": 831,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-05-29": 12,
       "2022-05-28": 17,
       "2022-05-11": 19
     }
@@ -261,18 +261,16 @@
     "slug": "sw-vt-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 906,
     "timeDay": 896,
     "timeWeek": 880,
     "timeMonth": 860,
     "timeYear": 906,
-    "dailyMinutesDown": {
-      "2022-05-29": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "prinzessin-gugelhupf.de",
@@ -281,9 +279,9 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 855,
     "timeDay": 883,
@@ -291,7 +289,6 @@
     "timeMonth": 820,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2022-05-29": 12,
       "2022-05-26": 22
     }
   }

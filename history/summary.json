@@ -99,7 +99,7 @@
     "time": 825,
     "timeDay": 801,
     "timeWeek": 810,
-    "timeMonth": 819,
+    "timeMonth": 821,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2022-05-17": 39,
@@ -154,18 +154,17 @@
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 1632,
     "timeDay": 1917,
     "timeWeek": 1555,
     "timeMonth": 1563,
     "timeYear": 1632,
     "dailyMinutesDown": {
-      "2022-05-29": 14,
       "2022-05-18": 24,
       "2022-05-09": 15
     }
@@ -204,7 +203,7 @@
     "time": 1295,
     "timeDay": 1177,
     "timeWeek": 1177,
-    "timeMonth": 1249,
+    "timeMonth": 1246,
     "timeYear": 1295,
     "dailyMinutesDown": {
       "2022-05-28": 19,
@@ -238,10 +237,10 @@
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 979,
@@ -250,6 +249,7 @@
     "timeMonth": 827,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-05-28": 17,
       "2022-05-11": 19
     }
@@ -259,9 +259,9 @@
     "url": "https://sw-vt.de/",
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,16 +270,18 @@
     "timeWeek": 865,
     "timeMonth": 856,
     "timeYear": 906,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "prinzessin-gugelhupf.de",
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -289,6 +291,7 @@
     "timeMonth": 815,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-05-26": 22
     }
   }

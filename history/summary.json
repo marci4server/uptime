@@ -4,10 +4,10 @@
     "url": "https://marci4.de",
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 595,
@@ -16,6 +16,7 @@
     "timeMonth": 589,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-05-27": 21,
       "2022-05-19": 19,
       "2022-05-18": 38
@@ -53,7 +54,7 @@
     "time": 1678,
     "timeDay": 1334,
     "timeWeek": 1451,
-    "timeMonth": 1512,
+    "timeMonth": 1510,
     "timeYear": 1678,
     "dailyMinutesDown": {
       "2022-05-25": 25,
@@ -70,12 +71,12 @@
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "95.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.60%",
     "time": 563,
-    "timeDay": 581,
+    "timeDay": 665,
     "timeWeek": 598,
     "timeMonth": 567,
     "timeYear": 563,
@@ -92,9 +93,9 @@
     "slug": "bot-marci4-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 826,
     "timeDay": 900,
@@ -102,7 +103,6 @@
     "timeMonth": 826,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2022-05-29": 9,
       "2022-05-17": 39,
       "2022-05-16": 4
     }
@@ -246,7 +246,7 @@
     "uptimeYear": "99.99%",
     "time": 979,
     "timeDay": 878,
-    "timeWeek": 839,
+    "timeWeek": 859,
     "timeMonth": 831,
     "timeYear": 979,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
     "time": 855,
     "timeDay": 883,
     "timeWeek": 816,
-    "timeMonth": 820,
+    "timeMonth": 826,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2022-05-26": 22

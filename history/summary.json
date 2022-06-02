@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/marci4.de",
     "slug": "marci4-de",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 608,
     "timeDay": 1900,
     "timeWeek": 843,
     "timeMonth": 658,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-06-02": 0
+      "2022-06-02": 16
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1666,
     "timeDay": 1173,
     "timeWeek": 1239,
     "timeMonth": 1474,
     "timeYear": 1666,
     "dailyMinutesDown": {
-      "2022-06-02": 0
+      "2022-06-02": 16
     }
   },
   {
@@ -62,9 +62,9 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,16 +73,18 @@
     "timeWeek": 540,
     "timeMonth": 552,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "bot.marci4.de",
     "url": "https://bot.marci4.de",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +93,9 @@
     "timeWeek": 763,
     "timeMonth": 814,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "bot.marci4.de - WebSocket",
@@ -116,9 +120,9 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,16 +131,18 @@
     "timeWeek": 1598,
     "timeMonth": 1775,
     "timeYear": 1597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "kljb-lauben.de",
     "url": "https://kljb-lauben.de",
     "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,16 +151,18 @@
     "timeWeek": 1344,
     "timeMonth": 1535,
     "timeYear": 1623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "elektro-oppold.de",
     "url": "https://elektro-oppold.de",
     "icon": "https://favicons.githubusercontent.com/elektro-oppold.de",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,16 +171,18 @@
     "timeWeek": 587,
     "timeMonth": 675,
     "timeYear": 720,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "faschingsverein-oy.de",
     "url": "https://faschingsverein-oy.de",
     "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,16 +191,18 @@
     "timeWeek": 1071,
     "timeMonth": 1225,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "saegesucht.de",
     "url": "https://saegesucht.de",
     "icon": "https://favicons.githubusercontent.com/saegesucht.de",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,7 +211,9 @@
     "timeWeek": 2668,
     "timeMonth": 1345,
     "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "sw-vt.de",
@@ -207,18 +221,18 @@
     "icon": "https://favicons.githubusercontent.com/sw-vt.de",
     "slug": "sw-vt-de",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 918,
     "timeDay": 1925,
     "timeWeek": 1174,
     "timeMonth": 943,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2022-06-02": 0
+      "2022-06-02": 15
     }
   },
   {
@@ -226,9 +240,9 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,6 +251,8 @@
     "timeWeek": 787,
     "timeMonth": 817,
     "timeYear": 853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   }
 ]

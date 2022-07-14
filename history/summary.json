@@ -107,10 +107,10 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
     "slug": "bot-marci4-de-web-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 681,
@@ -119,6 +119,7 @@
     "timeMonth": 654,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2022-07-14": 1,
       "2022-06-02": 47
     }
   },

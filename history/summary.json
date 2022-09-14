@@ -130,9 +130,9 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1659,
     "timeDay": 2432,
@@ -140,7 +140,6 @@
     "timeMonth": 1882,
     "timeYear": 1659,
     "dailyMinutesDown": {
-      "2022-09-13": 14,
       "2022-09-10": 23,
       "2022-06-02": 150
     }

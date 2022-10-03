@@ -2,7 +2,7 @@
   {
     "name": "marci4.de",
     "url": "https://marci4.de",
-    "icon": "https://favicons.githubusercontent.com/marci4.de",
+    "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
     "status": "up",
     "uptime": "99.96%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 628,
-    "timeDay": 515,
-    "timeWeek": 683,
-    "timeMonth": 636,
+    "timeDay": 820,
+    "timeWeek": 689,
+    "timeMonth": 646,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2022-06-02": 165
@@ -22,7 +22,7 @@
   {
     "name": "Plesk",
     "url": "$PLESK",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plesk",
     "status": "up",
     "uptime": "99.99%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1052,
-    "timeDay": 798,
-    "timeWeek": 987,
-    "timeMonth": 910,
-    "timeYear": 1052,
+    "time": 1053,
+    "timeDay": 1245,
+    "timeWeek": 1023,
+    "timeMonth": 925,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2022-06-02": 48
     }
@@ -42,7 +42,7 @@
   {
     "name": "Nextcloud",
     "url": "$NEXTCLOUD",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.96%",
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1626,
-    "timeDay": 1278,
-    "timeWeek": 1478,
-    "timeMonth": 1436,
+    "timeDay": 1570,
+    "timeWeek": 1486,
+    "timeMonth": 1448,
     "timeYear": 1626,
     "dailyMinutesDown": {
       "2022-06-02": 165
@@ -62,7 +62,7 @@
   {
     "name": "gfl.marci4.de",
     "url": "https://gfl.marci4.de",
-    "icon": "https://favicons.githubusercontent.com/gfl.marci4.de",
+    "icon": "https://icons.duckduckgo.com/ip3/gfl.marci4.de.ico",
     "slug": "gfl-marci4-de",
     "status": "up",
     "uptime": "99.81%",
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 597,
-    "timeDay": 522,
-    "timeWeek": 634,
-    "timeMonth": 596,
-    "timeYear": 597,
+    "time": 598,
+    "timeDay": 806,
+    "timeWeek": 638,
+    "timeMonth": 602,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2022-07-05": 19,
       "2022-07-02": 20,
@@ -85,7 +85,7 @@
   {
     "name": "bot.marci4.de",
     "url": "https://bot.marci4.de",
-    "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
+    "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de",
     "status": "up",
     "uptime": "99.97%",
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 850,
-    "timeDay": 721,
-    "timeWeek": 949,
-    "timeMonth": 855,
-    "timeYear": 850,
+    "time": 851,
+    "timeDay": 1315,
+    "timeWeek": 984,
+    "timeMonth": 876,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2022-06-02": 150
     }
@@ -105,7 +105,7 @@
   {
     "name": "bot.marci4.de - WebSocket",
     "url": "https://bot.marci4.de:8081",
-    "icon": "https://favicons.githubusercontent.com/bot.marci4.de",
+    "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
     "status": "up",
     "uptime": "99.99%",
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 667,
-    "timeDay": 507,
-    "timeWeek": 640,
-    "timeMonth": 577,
+    "timeDay": 806,
+    "timeWeek": 659,
+    "timeMonth": 587,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2022-07-14": 16,
@@ -126,19 +126,19 @@
   {
     "name": "feuerwehr-lauben.de",
     "url": "https://feuerwehr-lauben.de",
-    "icon": "https://favicons.githubusercontent.com/feuerwehr-lauben.de",
+    "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.95%",
-    "time": 1703,
-    "timeDay": 2458,
-    "timeWeek": 2422,
-    "timeMonth": 2225,
-    "timeYear": 1703,
+    "time": 1707,
+    "timeDay": 3051,
+    "timeWeek": 2486,
+    "timeMonth": 2259,
+    "timeYear": 1707,
     "dailyMinutesDown": {
       "2022-10-01": 48,
       "2022-09-10": 23,
@@ -148,7 +148,7 @@
   {
     "name": "kljb-lauben.de",
     "url": "https://kljb-lauben.de",
-    "icon": "https://favicons.githubusercontent.com/kljb-lauben.de",
+    "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "99.97%",
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1568,
-    "timeDay": 1480,
-    "timeWeek": 1570,
-    "timeMonth": 1432,
-    "timeYear": 1568,
+    "time": 1569,
+    "timeDay": 1872,
+    "timeWeek": 1630,
+    "timeMonth": 1446,
+    "timeYear": 1569,
     "dailyMinutesDown": {
       "2022-06-02": 150
     }
@@ -168,7 +168,7 @@
   {
     "name": "elektro-oppold.de",
     "url": "https://elektro-oppold.de",
-    "icon": "https://favicons.githubusercontent.com/elektro-oppold.de",
+    "icon": "https://icons.duckduckgo.com/ip3/elektro-oppold.de.ico",
     "slug": "elektro-oppold-de",
     "status": "up",
     "uptime": "99.97%",
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 773,
-    "timeDay": 705,
-    "timeWeek": 864,
-    "timeMonth": 802,
-    "timeYear": 773,
+    "time": 774,
+    "timeDay": 1088,
+    "timeWeek": 883,
+    "timeMonth": 816,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2022-06-02": 150
     }
@@ -188,7 +188,7 @@
   {
     "name": "faschingsverein-oy.de",
     "url": "https://faschingsverein-oy.de",
-    "icon": "https://favicons.githubusercontent.com/faschingsverein-oy.de",
+    "icon": "https://icons.duckduckgo.com/ip3/faschingsverein-oy.de.ico",
     "slug": "faschingsverein-oy-de",
     "status": "up",
     "uptime": "99.97%",
@@ -196,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1303,
-    "timeDay": 1000,
-    "timeWeek": 1313,
-    "timeMonth": 1241,
-    "timeYear": 1303,
+    "time": 1304,
+    "timeDay": 1490,
+    "timeWeek": 1325,
+    "timeMonth": 1250,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2022-06-02": 150
     }
@@ -208,7 +208,7 @@
   {
     "name": "saegesucht.de",
     "url": "https://saegesucht.de",
-    "icon": "https://favicons.githubusercontent.com/saegesucht.de",
+    "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
     "status": "up",
     "uptime": "99.97%",
@@ -216,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1220,
-    "timeDay": 1189,
-    "timeWeek": 2061,
-    "timeMonth": 1614,
-    "timeYear": 1220,
+    "time": 1222,
+    "timeDay": 1775,
+    "timeWeek": 2133,
+    "timeMonth": 1628,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2022-06-02": 150
     }
@@ -228,7 +228,7 @@
   {
     "name": "sw-vt.de",
     "url": "https://sw-vt.de/",
-    "icon": "https://favicons.githubusercontent.com/sw-vt.de",
+    "icon": "https://icons.duckduckgo.com/ip3/sw-vt.de.ico",
     "slug": "sw-vt-de",
     "status": "up",
     "uptime": "99.96%",
@@ -236,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1143,
-    "timeDay": 1661,
-    "timeWeek": 4272,
-    "timeMonth": 2249,
-    "timeYear": 1143,
+    "time": 1145,
+    "timeDay": 1610,
+    "timeWeek": 4327,
+    "timeMonth": 2248,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2022-06-02": 172
     }
@@ -248,7 +248,7 @@
   {
     "name": "prinzessin-gugelhupf.de",
     "url": "https://prinzessin-gugelhupf.de/",
-    "icon": "https://favicons.githubusercontent.com/prinzessin-gugelhupf.de",
+    "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
     "status": "up",
     "uptime": "99.97%",
@@ -256,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1059,
-    "timeDay": 1219,
-    "timeWeek": 2158,
-    "timeMonth": 1537,
-    "timeYear": 1059,
+    "time": 1060,
+    "timeDay": 1364,
+    "timeWeek": 2165,
+    "timeMonth": 1548,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2022-06-02": 156
     }

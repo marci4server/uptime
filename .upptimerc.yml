@@ -31,6 +31,8 @@ sites:
     url: https://sw-vt.de/
   - name: prinzessin-gugelhupf.de
     url: https://prinzessin-gugelhupf.de/
+  - name: mg-naturgartenbau.de
+    url: http://mg-naturgartenbau.de
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

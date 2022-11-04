@@ -94,9 +94,9 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 823,
     "timeMonth": 706,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-04": 0
+    }
   },
   {
     "name": "feuerwehr-lauben.de",

@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 602,
-    "timeWeek": 735,
-    "timeMonth": 744,
-    "timeYear": 637,
+    "time": 638,
+    "timeDay": 751,
+    "timeWeek": 754,
+    "timeMonth": 749,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2022-11-05": 1
+      "2022-11-05": 16
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "plesk",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1049,
     "timeDay": 801,
@@ -36,7 +36,7 @@
     "timeMonth": 1023,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-11-05": 28
+      "2022-11-05": 44
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 1585,
     "timeDay": 699,
@@ -56,7 +56,7 @@
     "timeMonth": 1156,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2022-11-05": 53
+      "2022-11-05": 70
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1804,
-    "timeDay": 2089,
-    "timeWeek": 2316,
-    "timeMonth": 2722,
-    "timeYear": 1804,
+    "time": 1805,
+    "timeDay": 2070,
+    "timeWeek": 2286,
+    "timeMonth": 2705,
+    "timeYear": 1805,
     "dailyMinutesDown": {
-      "2022-11-05": 0
+      "2022-11-05": 16
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1514,
-    "timeDay": 587,
-    "timeWeek": 839,
-    "timeMonth": 937,
-    "timeYear": 1514,
+    "time": 1512,
+    "timeDay": 684,
+    "timeWeek": 832,
+    "timeMonth": 933,
+    "timeYear": 1512,
     "dailyMinutesDown": {
-      "2022-11-05": 0
+      "2022-11-05": 16
     }
   },
   {

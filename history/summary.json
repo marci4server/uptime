@@ -26,9 +26,9 @@
     "slug": "plesk",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "88.92%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 1049,
     "timeDay": 801,
@@ -36,7 +36,7 @@
     "timeMonth": 1023,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-11-05": 160
+      "2022-11-05": 164
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "87.17%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "86.87%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.96%",
     "time": 1585,
     "timeDay": 699,
@@ -56,7 +56,7 @@
     "timeMonth": 1156,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2022-11-05": 185
+      "2022-11-05": 189
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 672,
-    "timeDay": 645,
-    "timeWeek": 822,
-    "timeMonth": 717,
+    "timeDay": 641,
+    "timeWeek": 811,
+    "timeMonth": 716,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-11-05": 0,
+      "2022-11-05": 4,
       "2022-11-04": 25
     }
   },

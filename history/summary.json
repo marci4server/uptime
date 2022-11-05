@@ -40,9 +40,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1426,
     "timeMonth": 1156,
     "timeYear": 1585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-05": 0
+    }
   },
   {
     "name": "gfl.marci4.de",
@@ -95,18 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 672,
     "timeDay": 645,
     "timeWeek": 822,
     "timeMonth": 717,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-11-05": 4,
       "2022-11-04": 25
     }
   },

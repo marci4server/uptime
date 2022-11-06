@@ -19,6 +19,10 @@ sites:
       - 404
   - name: feuerwehr-lauben.de
     url: https://feuerwehr-lauben.de
+  - name: Alert
+    url: $ALERT_FFW
+    expectedStatusCodes:
+      - 405
   - name: kljb-lauben.de
     url: https://kljb-lauben.de
   - name: elektro-oppold.de

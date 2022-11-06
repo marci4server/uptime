@@ -4,8 +4,8 @@ repo: uptime # The name of this repository
 sites:
   - name: marci4.de
     url: https://marci4.de
-  - name: Plesk
-    url: $PLESK
+  - name: VirtualMin
+    url: $VIRTUALMIN
   - name: Nextcloud
     url: $NEXTCLOUD
   - name: gfl.marci4.de

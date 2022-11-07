@@ -96,19 +96,19 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 673,
-    "timeDay": 759,
-    "timeWeek": 778,
-    "timeMonth": 723,
+    "timeDay": 731,
+    "timeWeek": 772,
+    "timeMonth": 721,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2022-11-07": 0
+      "2022-11-07": 5
     }
   },
   {

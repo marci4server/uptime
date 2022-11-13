@@ -21,6 +21,8 @@ sites:
     url: $WEBMAIL
   - name: Portainer
     url: $PORTAINER
+  - name: Addons
+    url: $ADDONS
   - name: feuerwehr-lauben.de
     url: https://feuerwehr-lauben.de
   - name: Alert

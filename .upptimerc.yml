@@ -43,9 +43,9 @@ sites:
     url: https://prinzessin-gugelhupf.de/
   - name: mg-naturgartenbau.de
     url: http://mg-naturgartenbau.de
-   - name: feueroase-allgäu.de
+  - name: feueroase-allgäu.de
     url: https://feueroase-allgäu.de
-   - name: feueroase-allgaeu.de
+  - name: feueroase-allgaeu.de
     url: https://feueroase-allgaeu.de
     
 status-website:

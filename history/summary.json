@@ -42,9 +42,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "50.20%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "49.90%",
+    "uptimeWeek": "92.84%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.86%",
     "time": 1552,
     "timeDay": 919,
@@ -52,7 +52,7 @@
     "timeMonth": 981,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2022-11-16": 717
+      "2022-11-16": 721
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 683,
-    "timeDay": 881,
-    "timeWeek": 895,
-    "timeMonth": 785,
+    "timeDay": 819,
+    "timeWeek": 881,
+    "timeMonth": 782,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2022-11-16": 0
+      "2022-11-16": 4
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "50.23%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "93.72%",
+    "uptime": "93.68%",
+    "uptimeDay": "49.92%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "93.68%",
     "time": 518,
     "timeDay": 459,
     "timeWeek": 511,
     "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2022-11-16": 717
+      "2022-11-16": 721
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
     "status": "up",
-    "uptime": "83.11%",
-    "uptimeDay": "50.35%",
-    "uptimeWeek": "83.11%",
-    "uptimeMonth": "83.11%",
-    "uptimeYear": "83.11%",
+    "uptime": "83.04%",
+    "uptimeDay": "50.05%",
+    "uptimeWeek": "83.04%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "83.04%",
     "time": 437,
     "timeDay": 522,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-11-16": 715,
+      "2022-11-16": 719,
       "2022-11-13": 75
     }
   },
@@ -285,9 +285,9 @@
     "slug": "sw-vt-de",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "50.56%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "50.25%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.86%",
     "time": 1129,
     "timeDay": 895,
@@ -295,7 +295,7 @@
     "timeMonth": 1059,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2022-11-16": 712
+      "2022-11-16": 716
     }
   },
   {

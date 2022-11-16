@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "50.20%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.86%",
     "time": 1552,
     "timeDay": 919,
     "timeWeek": 844,
     "timeMonth": 981,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2022-11-16": 15
+      "2022-11-16": 717
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "https://bot.marci4.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de-web-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
     "timeDay": 881,
-    "timeWeek": 881,
+    "timeWeek": 895,
     "timeMonth": 785,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 0
+    }
   },
   {
     "name": "Webmail",
@@ -115,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "93.72%",
+    "uptimeDay": "50.23%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "93.72%",
     "time": 518,
     "timeDay": 459,
     "timeWeek": 511,
     "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2022-11-16": 15
+      "2022-11-16": 717
     }
   },
   {
@@ -153,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
     "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
+    "uptime": "83.11%",
+    "uptimeDay": "50.35%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "83.11%",
+    "uptimeYear": "83.11%",
     "time": 437,
     "timeDay": 522,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-11-16": 13,
+      "2022-11-16": 715,
       "2022-11-13": 75
     }
   },
@@ -282,18 +284,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sw-vt.de.ico",
     "slug": "sw-vt-de",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "50.56%",
+    "uptimeWeek": "92.94%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.86%",
     "time": 1129,
     "timeDay": 895,
     "timeWeek": 959,
     "timeMonth": 1059,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2022-11-16": 10
+      "2022-11-16": 712
     }
   },
   {

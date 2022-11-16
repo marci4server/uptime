@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "41.51%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "40.50%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "99.83%",
     "time": 1552,
     "timeDay": 919,
     "timeWeek": 844,
     "timeMonth": 981,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2022-11-16": 842
+      "2022-11-16": 857
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "92.70%",
-    "uptimeDay": "41.53%",
-    "uptimeWeek": "91.65%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "92.70%",
+    "uptime": "92.59%",
+    "uptimeDay": "40.53%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "92.59%",
     "time": 518,
     "timeDay": 459,
     "timeWeek": 511,
     "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2022-11-16": 842
+      "2022-11-16": 856
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
     "status": "up",
-    "uptime": "80.95%",
-    "uptimeDay": "41.66%",
-    "uptimeWeek": "80.95%",
-    "uptimeMonth": "80.95%",
-    "uptimeYear": "80.95%",
+    "uptime": "80.70%",
+    "uptimeDay": "40.65%",
+    "uptimeWeek": "80.70%",
+    "uptimeMonth": "80.70%",
+    "uptimeYear": "80.70%",
     "time": 437,
     "timeDay": 522,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-11-16": 840,
+      "2022-11-16": 855,
       "2022-11-13": 75
     }
   },
@@ -173,19 +173,19 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1845,
-    "timeDay": 2739,
-    "timeWeek": 2330,
-    "timeMonth": 2456,
-    "timeYear": 1845,
+    "time": 1846,
+    "timeDay": 2743,
+    "timeWeek": 2352,
+    "timeMonth": 2461,
+    "timeYear": 1846,
     "dailyMinutesDown": {
-      "2022-11-16": 1
+      "2022-11-16": 15
     }
   },
   {
@@ -285,9 +285,9 @@
     "slug": "sw-vt-de",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "41.86%",
-    "uptimeWeek": "91.69%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "40.85%",
+    "uptimeWeek": "91.55%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.84%",
     "time": 1129,
     "timeDay": 895,
@@ -295,7 +295,7 @@
     "timeMonth": 1059,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2022-11-16": 837
+      "2022-11-16": 852
     }
   },
   {

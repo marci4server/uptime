@@ -12,11 +12,6 @@ sites:
     url: https://gfl.marci4.de
   - name: bot.marci4.de
     url: https://bot.marci4.de
-  - name: bot.marci4.de - WebSocket
-    url: https://bot.marci4.de:8081
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 404
   - name: Webmail
     url: $WEBMAIL
   - name: Portainer

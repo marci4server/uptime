@@ -8,10 +8,6 @@ sites:
     url: $VIRTUALMIN
   - name: Nextcloud
     url: $NEXTCLOUD
-  - name: gfl.marci4.de
-    url: https://gfl.marci4.de
-  - name: bot.marci4.de
-    url: https://bot.marci4.de
   - name: Webmail
     url: $WEBMAIL
   - name: Portainer

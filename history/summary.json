@@ -62,9 +62,9 @@
     "url": "https://gfl.marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/gfl.marci4.de.ico",
     "slug": "gfl-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,16 +73,18 @@
     "timeWeek": 624,
     "timeMonth": 692,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "bot.marci4.de",
     "url": "https://bot.marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/bot.marci4.de.ico",
     "slug": "bot-marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +93,9 @@
     "timeWeek": 864,
     "timeMonth": 980,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Webmail",
@@ -99,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "91.50%",
+    "uptime": "91.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.50%",
-    "uptimeYear": "91.50%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "91.71%",
     "time": 498,
     "timeDay": 656,
     "timeWeek": 469,
@@ -139,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
     "status": "up",
-    "uptime": "89.59%",
+    "uptime": "89.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "89.59%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "89.89%",
     "time": 466,
     "timeDay": 516,
     "timeWeek": 463,

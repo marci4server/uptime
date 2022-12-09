@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "92.09%",
+    "uptime": "92.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "92.09%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "92.13%",
     "time": 507,
     "timeDay": 762,
     "timeWeek": 502,
@@ -103,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
     "status": "up",
-    "uptime": "90.45%",
+    "uptime": "90.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "90.45%",
+    "uptimeMonth": "90.51%",
+    "uptimeYear": "90.51%",
     "time": 471,
     "timeDay": 475,
     "timeWeek": 490,
@@ -125,18 +125,19 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.94%",
     "time": 1887,
-    "timeDay": 2626,
-    "timeWeek": 2216,
-    "timeMonth": 2360,
-    "timeYear": 1916,
+    "timeDay": 2225,
+    "timeWeek": 2185,
+    "timeMonth": 2351,
+    "timeYear": 1915,
     "dailyMinutesDown": {
+      "2022-12-09": 0,
       "2022-12-05": 22,
       "2022-11-26": 246,
       "2022-11-25": 25
@@ -238,7 +239,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sw-vt.de.ico",
     "slug": "sw-vt-de",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.14%",
@@ -297,7 +298,7 @@
     "slug": "feueroase-allgaeu-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -306,9 +307,7 @@
     "timeWeek": 1221,
     "timeMonth": 1139,
     "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2022-12-09": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "feueroase-allgaeu.de",
@@ -317,7 +316,7 @@
     "slug": "feueroase-allgaeu-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -326,8 +325,6 @@
     "timeWeek": 1221,
     "timeMonth": 1139,
     "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2022-12-09": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]

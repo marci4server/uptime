@@ -12,6 +12,8 @@ sites:
     url: $WEBMAIL
   - name: Portainer
     url: $PORTAINER
+    expectedStatusCodes:
+      - 401
   - name: Addons
     url: $ADDONS
   - name: feuerwehr-lauben.de

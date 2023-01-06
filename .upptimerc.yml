@@ -12,8 +12,6 @@ sites:
     url: $WEBMAIL
   - name: Portainer
     url: $PORTAINER
-    expectedStatusCodes:
-      - 401
   - name: Rspamd
     url: $RSPAMD
     expectedStatusCodes:

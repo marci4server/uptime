@@ -84,19 +84,19 @@
     "url": "$PORTAINER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 559,
-    "timeWeek": 626,
-    "timeMonth": 651,
-    "timeYear": 636,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 635,
+    "timeDay": 560,
+    "timeWeek": 621,
+    "timeMonth": 649,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 12
     }
   },
   {

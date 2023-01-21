@@ -102,9 +102,9 @@
     "url": "$RSPAMD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rspamd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 579,
     "timeMonth": 547,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "Addons",
@@ -145,9 +147,9 @@
     "slug": "feuerwehr-lauben-de",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.87%",
     "time": 1969,
     "timeDay": 1976,
@@ -155,7 +157,6 @@
     "timeMonth": 2390,
     "timeYear": 2054,
     "dailyMinutesDown": {
-      "2023-01-21": 6,
       "2023-01-13": 30,
       "2023-01-12": 336,
       "2023-01-11": 33,

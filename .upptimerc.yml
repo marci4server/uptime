@@ -41,7 +41,7 @@ sites:
   - name: feueroase-allgaeu.de
     url: https://feueroase-allgaeu.de
   - name: Birkenmoos.de
-    url: https://preview.birkenmoos.de
+    url: https://birkenmoos.de
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

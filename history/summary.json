@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 745,
-    "timeDay": 7831,
-    "timeWeek": 3195,
-    "timeMonth": 1678,
-    "timeYear": 774,
+    "time": 770,
+    "timeDay": 8962,
+    "timeWeek": 3987,
+    "timeMonth": 1974,
+    "timeYear": 802,
     "dailyMinutesDown": {
-      "2023-01-25": 34
+      "2023-01-25": 48
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 1458,
-    "timeDay": 1058,
-    "timeWeek": 913,
-    "timeMonth": 953,
-    "timeYear": 1389,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 1464,
+    "timeDay": 1955,
+    "timeWeek": 1224,
+    "timeMonth": 1048,
+    "timeYear": 1396,
     "dailyMinutesDown": {
-      "2023-01-25": 21
+      "2023-01-25": 36
     }
   },
   {
@@ -62,55 +62,59 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 542,
     "timeDay": 657,
     "timeWeek": 535,
     "timeMonth": 571,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 4
+    }
   },
   {
     "name": "Portainer",
     "url": "$PORTAINER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 853,
     "timeDay": 3336,
     "timeWeek": 1509,
     "timeMonth": 1108,
     "timeYear": 853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 3
+    }
   },
   {
     "name": "Rspamd",
     "url": "$RSPAMD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rspamd",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 571,
     "timeDay": 727,
     "timeWeek": 614,
     "timeMonth": 571,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-01-25": 19
+      "2023-01-25": 22
     }
   },
   {
@@ -119,18 +123,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 504,
     "timeDay": 518,
     "timeWeek": 506,
     "timeMonth": 508,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 22
     }
   },
   {
@@ -138,18 +142,20 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1971,
     "timeDay": 2345,
     "timeWeek": 2130,
     "timeMonth": 2392,
     "timeYear": 2060,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "kljb-lauben.de",
@@ -158,9 +164,9 @@
     "slug": "kljb-lauben-de",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1371,
     "timeDay": 813,
@@ -168,7 +174,7 @@
     "timeMonth": 747,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 21
     }
   },
   {
@@ -178,9 +184,9 @@
     "slug": "elektro-oppold-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 818,
     "timeDay": 5312,
@@ -188,7 +194,7 @@
     "timeMonth": 1133,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-01-25": 31
+      "2023-01-25": 51
     }
   },
   {
@@ -198,9 +204,9 @@
     "slug": "faschingsverein-oy-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 1246,
     "timeDay": 1229,
@@ -208,7 +214,7 @@
     "timeMonth": 1136,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2023-01-25": 50
+      "2023-01-25": 70
     }
   },
   {
@@ -218,9 +224,9 @@
     "slug": "saegesucht-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1179,
     "timeDay": 1221,
@@ -228,7 +234,7 @@
     "timeMonth": 1045,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-01-25": 42
+      "2023-01-25": 61
     }
   },
   {
@@ -238,9 +244,9 @@
     "slug": "sw-vt-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1092,
     "timeDay": 947,
@@ -248,7 +254,7 @@
     "timeMonth": 919,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2023-01-25": 40
+      "2023-01-25": 59
     }
   },
   {
@@ -258,9 +264,9 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 1047,
     "timeDay": 1890,
@@ -268,7 +274,7 @@
     "timeMonth": 1076,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2023-01-25": 31
+      "2023-01-25": 51
     }
   },
   {
@@ -330,19 +336,19 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "98.05%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "98.01%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 2030,
     "timeDay": 5286,
     "timeWeek": 2492,
     "timeMonth": 2030,
     "timeYear": 2030,
     "dailyMinutesDown": {
-      "2023-01-25": 28
+      "2023-01-25": 29
     }
   }
 ]

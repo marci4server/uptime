@@ -4,11 +4,11 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 770,
     "timeDay": 8962,
@@ -16,7 +16,7 @@
     "timeMonth": 1974,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2023-01-25": 48
+      "2023-01-25": 58
     }
   },
   {
@@ -24,29 +24,31 @@
     "url": "$VIRTUALMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 863,
     "timeDay": 835,
     "timeWeek": 730,
     "timeMonth": 817,
     "timeYear": 863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 8
+    }
   },
   {
     "name": "Nextcloud",
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1464,
     "timeDay": 1955,
@@ -54,7 +56,7 @@
     "timeMonth": 1048,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2023-01-25": 36
+      "2023-01-25": 42
     }
   },
   {
@@ -62,55 +64,59 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 1119,
     "timeWeek": 699,
     "timeMonth": 621,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 4
+    }
   },
   {
     "name": "Portainer",
     "url": "$PORTAINER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 876,
     "timeDay": 3292,
     "timeWeek": 1633,
     "timeMonth": 1152,
     "timeYear": 876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 4
+    }
   },
   {
     "name": "Rspamd",
     "url": "$RSPAMD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rspamd",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 578,
     "timeDay": 732,
     "timeWeek": 629,
     "timeMonth": 578,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2023-01-25": 19
+      "2023-01-25": 22
     }
   },
   {
@@ -118,11 +124,11 @@
     "url": "$ADDONS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 507,
     "timeDay": 587,
@@ -130,7 +136,7 @@
     "timeMonth": 515,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2023-01-25": 27
+      "2023-01-25": 30
     }
   },
   {
@@ -138,11 +144,11 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1978,
     "timeDay": 3357,
@@ -150,7 +156,7 @@
     "timeMonth": 2452,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2023-01-25": 13
+      "2023-01-25": 3
     }
   },
   {
@@ -158,11 +164,11 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1381,
     "timeDay": 2137,
@@ -170,7 +176,7 @@
     "timeMonth": 884,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2023-01-25": 27
+      "2023-01-25": 29
     }
   },
   {
@@ -178,10 +184,10 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://icons.duckduckgo.com/ip3/elektro-oppold.de.ico",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 823,
@@ -190,7 +196,7 @@
     "timeMonth": 1195,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-01-25": 56
+      "2023-01-25": 58
     }
   },
   {
@@ -198,11 +204,11 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://icons.duckduckgo.com/ip3/faschingsverein-oy.de.ico",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 1279,
     "timeDay": 5239,
@@ -210,7 +216,7 @@
     "timeMonth": 1549,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-01-25": 76
+      "2023-01-25": 78
     }
   },
   {
@@ -218,11 +224,11 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 1182,
     "timeDay": 1617,
@@ -230,7 +236,7 @@
     "timeMonth": 1090,
     "timeYear": 1182,
     "dailyMinutesDown": {
-      "2023-01-25": 67
+      "2023-01-25": 69
     }
   },
   {
@@ -238,10 +244,10 @@
     "url": "https://sw-vt.de/",
     "icon": "https://icons.duckduckgo.com/ip3/sw-vt.de.ico",
     "slug": "sw-vt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 1093,
@@ -250,7 +256,7 @@
     "timeMonth": 940,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2023-01-25": 66
+      "2023-01-25": 67
     }
   },
   {
@@ -258,10 +264,10 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 1060,
@@ -270,7 +276,7 @@
     "timeMonth": 1230,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2023-01-25": 57
+      "2023-01-25": 58
     }
   },
   {
@@ -278,10 +284,10 @@
     "url": "http://mg-naturgartenbau.de",
     "icon": "https://icons.duckduckgo.com/ip3/mg-naturgartenbau.de.ico",
     "slug": "mg-naturgartenbau-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
@@ -289,7 +295,9 @@
     "timeWeek": 400,
     "timeMonth": 405,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "feueroase-allgäu.de",
@@ -332,19 +340,19 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "98.05%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "98.01%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 2400,
     "timeDay": 6187,
     "timeWeek": 3054,
     "timeMonth": 2400,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2023-01-25": 28
+      "2023-01-25": 29
     }
   }
 ]

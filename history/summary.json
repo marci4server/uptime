@@ -304,19 +304,19 @@
     "url": "https://feueroase-allgäu.de",
     "icon": "https://icons.duckduckgo.com/ip3/xn--feueroase-allgu-elb.de.ico",
     "slug": "feueroase-allgaeu-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
     "timeDay": 917,
-    "timeWeek": 750,
+    "timeWeek": 745,
     "timeMonth": 730,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 1
     }
   },
   {
@@ -324,19 +324,19 @@
     "url": "https://feueroase-allgaeu.de",
     "icon": "https://icons.duckduckgo.com/ip3/feueroase-allgaeu.de.ico",
     "slug": "feueroase-allgaeu-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
     "timeDay": 917,
-    "timeWeek": 750,
+    "timeWeek": 745,
     "timeMonth": 730,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 1
     }
   },
   {

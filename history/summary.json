@@ -153,7 +153,7 @@
     "time": 1982,
     "timeDay": 2225,
     "timeWeek": 2229,
-    "timeMonth": 2386,
+    "timeMonth": 2388,
     "timeYear": 2084,
     "dailyMinutesDown": {
       "2023-01-25": 30
@@ -304,10 +304,10 @@
     "url": "https://feueroase-allgäu.de",
     "icon": "https://icons.duckduckgo.com/ip3/xn--feueroase-allgu-elb.de.ico",
     "slug": "feueroase-allgaeu-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 890,
@@ -315,17 +315,19 @@
     "timeWeek": 674,
     "timeMonth": 736,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-03": 1
+    }
   },
   {
     "name": "feueroase-allgaeu.de",
     "url": "https://feueroase-allgaeu.de",
     "icon": "https://icons.duckduckgo.com/ip3/feueroase-allgaeu.de.ico",
     "slug": "feueroase-allgaeu-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 890,
@@ -333,7 +335,9 @@
     "timeWeek": 674,
     "timeMonth": 736,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-03": 1
+    }
   },
   {
     "name": "Birkenmoos.de",
@@ -341,11 +345,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 2184,
     "timeDay": 1043,
     "timeWeek": 1747,

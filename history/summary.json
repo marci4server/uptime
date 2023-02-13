@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 791,
-    "timeDay": 1342,
-    "timeWeek": 1221,
-    "timeMonth": 2207,
+    "timeDay": 993,
+    "timeWeek": 1207,
+    "timeMonth": 2208,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2023-01-25": 84
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 902,
-    "timeDay": 889,
-    "timeWeek": 957,
-    "timeMonth": 964,
-    "timeYear": 902,
+    "time": 901,
+    "timeDay": 696,
+    "timeWeek": 929,
+    "timeMonth": 939,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2023-01-25": 34
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 1450,
-    "timeDay": 1210,
-    "timeWeek": 1092,
-    "timeMonth": 1115,
-    "timeYear": 1347,
+    "time": 1448,
+    "timeDay": 697,
+    "timeWeek": 985,
+    "timeMonth": 1110,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2023-01-25": 68
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 609,
-    "timeDay": 665,
-    "timeWeek": 579,
-    "timeMonth": 750,
-    "timeYear": 609,
+    "time": 608,
+    "timeDay": 497,
+    "timeWeek": 574,
+    "timeMonth": 746,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2023-01-25": 30
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 853,
-    "timeDay": 788,
-    "timeWeek": 780,
-    "timeMonth": 1040,
-    "timeYear": 853,
+    "time": 851,
+    "timeDay": 696,
+    "timeWeek": 745,
+    "timeMonth": 1042,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2023-01-25": 30
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 567,
-    "timeDay": 622,
-    "timeWeek": 588,
-    "timeMonth": 581,
-    "timeYear": 567,
+    "time": 563,
+    "timeDay": 393,
+    "timeWeek": 575,
+    "timeMonth": 577,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2023-01-25": 49
     }
@@ -131,9 +131,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 523,
-    "timeDay": 631,
-    "timeWeek": 732,
-    "timeMonth": 564,
+    "timeDay": 495,
+    "timeWeek": 716,
+    "timeMonth": 567,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2023-01-25": 57
@@ -144,15 +144,15 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "92.22%",
-    "uptimeWeek": "96.00%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "95.99%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.92%",
     "time": 2036,
-    "timeDay": 6470,
-    "timeWeek": 4734,
+    "timeDay": 7100,
+    "timeWeek": 4665,
     "timeMonth": 2817,
     "timeYear": 2156,
     "dailyMinutesDown": {
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 1378,
-    "timeDay": 890,
-    "timeWeek": 1190,
-    "timeMonth": 1214,
-    "timeYear": 1274,
+    "time": 1377,
+    "timeDay": 559,
+    "timeWeek": 969,
+    "timeMonth": 1209,
+    "timeYear": 1272,
     "dailyMinutesDown": {
       "2023-01-25": 56
     }
@@ -193,9 +193,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 821,
-    "timeDay": 802,
-    "timeWeek": 791,
-    "timeMonth": 1275,
+    "timeDay": 578,
+    "timeWeek": 734,
+    "timeMonth": 1274,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2023-01-25": 85
@@ -213,10 +213,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 1283,
-    "timeDay": 1214,
-    "timeWeek": 1828,
-    "timeMonth": 1790,
-    "timeYear": 1276,
+    "timeDay": 891,
+    "timeWeek": 1459,
+    "timeMonth": 1787,
+    "timeYear": 1275,
     "dailyMinutesDown": {
       "2023-01-25": 105
     }
@@ -233,10 +233,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 1199,
-    "timeDay": 1153,
-    "timeWeek": 1415,
-    "timeMonth": 1420,
-    "timeYear": 1218,
+    "timeDay": 1116,
+    "timeWeek": 1389,
+    "timeMonth": 1422,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2023-01-25": 96
     }
@@ -253,10 +253,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 1109,
-    "timeDay": 958,
-    "timeWeek": 1236,
-    "timeMonth": 1262,
-    "timeYear": 1148,
+    "timeDay": 970,
+    "timeWeek": 1235,
+    "timeMonth": 1265,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2023-01-25": 95
     }
@@ -272,10 +272,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 1065,
-    "timeDay": 1073,
-    "timeWeek": 1259,
-    "timeMonth": 1352,
+    "time": 1064,
+    "timeDay": 835,
+    "timeWeek": 1219,
+    "timeMonth": 1351,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-01-25": 85
@@ -292,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 414,
-    "timeDay": 482,
-    "timeWeek": 464,
-    "timeMonth": 438,
-    "timeYear": 414,
+    "time": 413,
+    "timeDay": 295,
+    "timeWeek": 436,
+    "timeMonth": 434,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2023-01-25": 28
     }
@@ -308,17 +308,16 @@
     "slug": "feueroase-allgaeu-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 885,
-    "timeDay": 1016,
-    "timeWeek": 861,
+    "time": 882,
+    "timeDay": 813,
+    "timeWeek": 830,
     "timeMonth": 789,
-    "timeYear": 885,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-02-13": 0,
       "2023-02-07": 20
     }
   },
@@ -329,17 +328,16 @@
     "slug": "feueroase-allgaeu-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 885,
-    "timeDay": 1016,
-    "timeWeek": 861,
+    "time": 882,
+    "timeDay": 813,
+    "timeWeek": 830,
     "timeMonth": 789,
-    "timeYear": 885,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-02-13": 0,
       "2023-02-07": 20
     }
   },
@@ -354,11 +352,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
-    "time": 2096,
-    "timeDay": 1459,
-    "timeWeek": 1955,
-    "timeMonth": 2165,
-    "timeYear": 2096,
+    "time": 2073,
+    "timeDay": 1089,
+    "timeWeek": 1943,
+    "timeMonth": 2162,
+    "timeYear": 2073,
     "dailyMinutesDown": {
       "2023-01-25": 57
     }

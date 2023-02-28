@@ -1,7 +1,7 @@
 url: https://feuerwehr-lauben.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-02-28T05:37:41.287Z
+status: up
+code: 200
+responseTime: 25999
+lastUpdated: 2023-02-28T05:43:29.783Z
 startTime: Sun Nov 21 2021 10:16:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -64,19 +64,19 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 595,
-    "timeDay": 607,
-    "timeWeek": 564,
-    "timeMonth": 543,
-    "timeYear": 595,
+    "time": 697,
+    "timeDay": 7360,
+    "timeWeek": 2258,
+    "timeMonth": 1011,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-03-05": 2,
+      "2023-03-05": 6,
       "2023-01-25": 30
     }
   },
@@ -238,10 +238,10 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1249,
@@ -250,6 +250,7 @@
     "timeMonth": 2205,
     "timeYear": 1301,
     "dailyMinutesDown": {
+      "2023-03-05": 2,
       "2023-01-25": 96
     }
   },
@@ -278,10 +279,10 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1089,
@@ -290,6 +291,7 @@
     "timeMonth": 1569,
     "timeYear": 1153,
     "dailyMinutesDown": {
+      "2023-03-05": 1,
       "2023-01-25": 85
     }
   },

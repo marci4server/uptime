@@ -4,11 +4,11 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 829,
     "timeDay": 1040,
@@ -16,6 +16,7 @@
     "timeMonth": 1684,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2023-03-05": 4,
       "2023-01-25": 84
     }
   },
@@ -66,9 +67,9 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 697,
     "timeDay": 7360,
@@ -76,7 +77,6 @@
     "timeMonth": 1011,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-03-05": 6,
       "2023-01-25": 30
     }
   },
@@ -238,19 +238,19 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1249,
-    "timeDay": 1070,
-    "timeWeek": 1012,
-    "timeMonth": 2205,
-    "timeYear": 1301,
+    "timeDay": 1332,
+    "timeWeek": 1085,
+    "timeMonth": 2184,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2023-03-05": 2,
+      "2023-03-05": 7,
       "2023-01-25": 96
     }
   },
@@ -281,9 +281,9 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1089,
     "timeDay": 1162,
@@ -291,7 +291,7 @@
     "timeMonth": 1569,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-03-05": 1,
+      "2023-03-05": 8,
       "2023-01-25": 85
     }
   },

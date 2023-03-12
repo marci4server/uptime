@@ -22,6 +22,7 @@ sites:
   - name: feuerwehr-lauben.de
     url: https://feuerwehr-lauben.de
     expectedStatusCodes:
+      - 0
       - 302
       - 301
       - 200

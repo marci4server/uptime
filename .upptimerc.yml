@@ -24,6 +24,8 @@ sites:
     expectedStatusCodes:
       - 302
       - 301
+      - 200
+      - 502
   - name: kljb-lauben.de
     url: https://kljb-lauben.de
   - name: elektro-oppold.de

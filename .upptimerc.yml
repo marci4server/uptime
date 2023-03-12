@@ -21,6 +21,9 @@ sites:
     url: $ADDONS
   - name: feuerwehr-lauben.de
     url: https://feuerwehr-lauben.de
+    expectedStatusCodes:
+      - 302
+      - 301
   - name: kljb-lauben.de
     url: https://kljb-lauben.de
   - name: elektro-oppold.de

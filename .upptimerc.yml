@@ -29,6 +29,10 @@ sites:
       - 502
   - name: kljb-lauben.de
     url: https://kljb-lauben.de
+    expectedStatusCodes:
+      - 302
+      - 301
+      - 429
   - name: elektro-oppold.de
     url: https://elektro-oppold.de
   - name: faschingsverein-oy.de

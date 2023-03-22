@@ -184,9 +184,9 @@
     "slug": "kljb-lauben-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1288,
     "timeDay": 918,
@@ -194,7 +194,6 @@
     "timeMonth": 748,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-03-21": 6,
       "2023-01-25": 56
     }
   },

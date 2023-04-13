@@ -130,18 +130,20 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2830,
-    "timeDay": 2125,
-    "timeWeek": 1983,
-    "timeMonth": 2369,
-    "timeYear": 2989,
-    "dailyMinutesDown": {}
+    "timeDay": 1993,
+    "timeWeek": 1974,
+    "timeMonth": 2360,
+    "timeYear": 2987,
+    "dailyMinutesDown": {
+      "2023-04-13": 1
+    }
   },
   {
     "name": "kljb-lauben.de",
@@ -276,15 +278,15 @@
     "slug": "feueroase-allgaeu-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 1033,
-    "timeWeek": 944,
-    "timeMonth": 856,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 1019,
+    "timeWeek": 937,
+    "timeMonth": 854,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2023-04-13": 0
     }
@@ -296,15 +298,15 @@
     "slug": "feueroase-allgaeu-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 1033,
-    "timeWeek": 944,
-    "timeMonth": 856,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 1019,
+    "timeWeek": 937,
+    "timeMonth": 854,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2023-04-13": 0
     }

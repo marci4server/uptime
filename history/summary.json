@@ -50,7 +50,7 @@
     "timeDay": 837,
     "timeWeek": 907,
     "timeMonth": 928,
-    "timeYear": 1237,
+    "timeYear": 1236,
     "dailyMinutesDown": {}
   },
   {
@@ -148,18 +148,20 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1223,
+    "time": 1222,
     "timeDay": 876,
     "timeWeek": 1053,
     "timeMonth": 1055,
     "timeYear": 1159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "elektro-oppold.de",
@@ -212,7 +214,7 @@
     "timeDay": 903,
     "timeWeek": 1081,
     "timeMonth": 1057,
-    "timeYear": 1329,
+    "timeYear": 1330,
     "dailyMinutesDown": {}
   },
   {

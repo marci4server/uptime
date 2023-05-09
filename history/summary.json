@@ -14,7 +14,7 @@
     "timeDay": 879,
     "timeWeek": 972,
     "timeMonth": 1013,
-    "timeYear": 996,
+    "timeYear": 998,
     "dailyMinutesDown": {}
   },
   {
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 2857,
     "timeDay": 2039,
-    "timeWeek": 2072,
+    "timeWeek": 2369,
     "timeMonth": 2374,
     "timeYear": 3027,
     "dailyMinutesDown": {}
@@ -148,19 +148,19 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 1201,
-    "timeDay": 1056,
-    "timeWeek": 1098,
-    "timeMonth": 1124,
+    "timeDay": 1085,
+    "timeWeek": 1107,
+    "timeMonth": 1126,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2023-05-09": 14,
+      "2023-05-09": 0,
       "2023-04-19": 64,
       "2023-04-18": 1
     }

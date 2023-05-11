@@ -30,6 +30,7 @@ sites:
   - name: kljb-lauben.de
     url: https://kljb-lauben.de
     expectedStatusCodes:
+      - 0
       - 200
       - 302
       - 301

@@ -280,10 +280,10 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1488,
@@ -291,6 +291,8 @@
     "timeWeek": 1148,
     "timeMonth": 1188,
     "timeYear": 1488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 1
+    }
   }
 ]

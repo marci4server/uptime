@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "75.09%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "74.30%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.88%",
     "time": 838,
     "timeDay": 637,
     "timeWeek": 733,
     "timeMonth": 757,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-06-16": 359
+      "2023-06-16": 370
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 2880,
-    "timeDay": 1598,
-    "timeWeek": 2319,
-    "timeMonth": 2358,
-    "timeYear": 3079,
+    "timeDay": 1651,
+    "timeWeek": 2257,
+    "timeMonth": 2340,
+    "timeYear": 3077,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 12
     }
   },
   {

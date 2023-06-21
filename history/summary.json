@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
     "status": "down",
-    "uptime": "97.82%",
+    "uptime": "97.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.39%",
-    "uptimeMonth": "83.75%",
-    "uptimeYear": "97.82%",
+    "uptimeWeek": "16.58%",
+    "uptimeMonth": "80.81%",
+    "uptimeYear": "97.43%",
     "time": 838,
     "timeDay": 0,
     "timeWeek": 675,
     "timeMonth": 755,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-06-21": 56,
+      "2023-06-21": 1346,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
@@ -287,9 +287,9 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -298,6 +298,8 @@
     "timeWeek": 1252,
     "timeMonth": 1222,
     "timeYear": 1443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-21": 0
+    }
   }
 ]

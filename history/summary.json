@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
     "status": "down",
-    "uptime": "90.99%",
+    "uptime": "90.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.85%",
-    "uptimeYear": "90.99%",
+    "uptimeMonth": "24.98%",
+    "uptimeYear": "90.67%",
     "time": 838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 748,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-07-08": 62,
+      "2023-07-08": 1321,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -268,10 +268,10 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1124,
@@ -279,7 +279,9 @@
     "timeWeek": 880,
     "timeMonth": 970,
     "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-08": 1
+    }
   },
   {
     "name": "mg-naturgartenbau.de",

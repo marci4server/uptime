@@ -26,7 +26,7 @@
     "uptime": "89.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.30%",
+    "uptimeMonth": "18.29%",
     "uptimeYear": "89.92%",
     "time": 838,
     "timeDay": 0,
@@ -34,7 +34,7 @@
     "timeMonth": 747,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-07-10": 1367,
+      "2023-07-10": 1372,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -306,19 +306,19 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1412,
-    "timeDay": 887,
-    "timeWeek": 1067,
-    "timeMonth": 1182,
-    "timeYear": 1412,
+    "time": 1409,
+    "timeDay": 864,
+    "timeWeek": 1038,
+    "timeMonth": 1171,
+    "timeYear": 1409,
     "dailyMinutesDown": {
-      "2023-07-10": 1
+      "2023-07-10": 5
     }
   }
 ]

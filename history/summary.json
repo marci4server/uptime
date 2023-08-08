@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-08-08": 536,
+      "2023-08-08": 548,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -197,19 +197,19 @@
     "url": "https://feuerwehr-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/feuerwehr-lauben.de.ico",
     "slug": "feuerwehr-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2886,
-    "timeDay": 1987,
-    "timeWeek": 2255,
-    "timeMonth": 2191,
-    "timeYear": 3107,
+    "time": 2888,
+    "timeDay": 2024,
+    "timeWeek": 2254,
+    "timeMonth": 2192,
+    "timeYear": 3105,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 11
     }
   },
   {

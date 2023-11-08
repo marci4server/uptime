@@ -1,7 +1,7 @@
 url: https://faschingsverein-oy.de
-status: up
-code: 200
-responseTime: 1113
-lastUpdated: 2023-11-07T23:06:14.569Z
+status: down
+code: 500
+responseTime: 716
+lastUpdated: 2023-11-08T20:45:38.879Z
 startTime: 2021-11-21T10:16:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>

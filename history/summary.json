@@ -27,9 +27,9 @@
     "slug": "virtual-min",
     "status": "down",
     "uptime": "85.21%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "84.97%",
     "time": 908,
     "timeDay": 4173,
@@ -37,7 +37,7 @@
     "timeMonth": 1827,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-11-12": 58,
+      "2023-11-12": 64,
       "2023-08-09": 1303,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
@@ -102,9 +102,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1095,
     "timeDay": 11226,
@@ -112,7 +112,7 @@
     "timeMonth": 2096,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-11-12": 53,
+      "2023-11-12": 58,
       "2023-07-27": 27
     }
   },
@@ -121,19 +121,19 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
-    "time": 660,
-    "timeDay": 3507,
-    "timeWeek": 1347,
-    "timeMonth": 874,
-    "timeYear": 662,
+    "time": 662,
+    "timeDay": 2881,
+    "timeWeek": 1378,
+    "timeMonth": 897,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-11-12": 70,
+      "2023-11-12": 72,
       "2023-07-27": 27
     }
   },
@@ -142,19 +142,19 @@
     "url": "$PORTAINER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 750,
-    "timeDay": 3031,
-    "timeWeek": 1371,
-    "timeMonth": 929,
-    "timeYear": 753,
+    "time": 775,
+    "timeDay": 5635,
+    "timeWeek": 2423,
+    "timeMonth": 1230,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2023-11-12": 62,
+      "2023-11-12": 65,
       "2023-07-27": 26
     }
   },
@@ -165,9 +165,9 @@
     "slug": "rspamd",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 620,
     "timeDay": 6361,
@@ -175,7 +175,7 @@
     "timeMonth": 1296,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2023-11-12": 46,
+      "2023-11-12": 51,
       "2023-07-27": 26
     }
   },
@@ -186,9 +186,9 @@
     "slug": "addons",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 564,
     "timeDay": 3678,
@@ -196,7 +196,7 @@
     "timeMonth": 899,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2023-11-12": 35,
+      "2023-11-12": 41,
       "2023-07-27": 26
     }
   },
@@ -251,9 +251,9 @@
     "slug": "elektro-oppold-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 826,
     "timeDay": 4242,
@@ -261,7 +261,7 @@
     "timeMonth": 1201,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2023-11-12": 61,
+      "2023-11-12": 66,
       "2023-07-27": 25
     }
   },
@@ -272,9 +272,9 @@
     "slug": "faschingsverein-oy-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.97%",
     "time": 1199,
     "timeDay": 13732,
@@ -282,7 +282,7 @@
     "timeMonth": 2015,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2023-11-12": 90,
+      "2023-11-12": 95,
       "2023-11-08": 32,
       "2023-07-27": 25
     }
@@ -294,9 +294,9 @@
     "slug": "saegesucht-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 1259,
     "timeDay": 10175,
@@ -304,7 +304,7 @@
     "timeMonth": 2009,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2023-11-12": 87,
+      "2023-11-12": 92,
       "2023-07-27": 25
     }
   },
@@ -315,9 +315,9 @@
     "slug": "sw-vt-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 1233,
     "timeDay": 9916,
@@ -325,7 +325,7 @@
     "timeMonth": 1993,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2023-11-12": 80,
+      "2023-11-12": 85,
       "2023-07-27": 25
     }
   },
@@ -336,9 +336,9 @@
     "slug": "prinzessin-gugelhupf-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 1211,
     "timeDay": 13754,
@@ -346,7 +346,7 @@
     "timeMonth": 1923,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2023-11-12": 77,
+      "2023-11-12": 82,
       "2023-07-27": 24
     }
   },
@@ -357,9 +357,9 @@
     "slug": "mg-naturgartenbau-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 452,
     "timeDay": 2040,
@@ -367,7 +367,7 @@
     "timeMonth": 615,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2023-11-12": 21,
+      "2023-11-12": 27,
       "2023-07-27": 24
     }
   },
@@ -377,18 +377,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.97%",
     "time": 1319,
     "timeDay": 2265,
     "timeWeek": 1541,
     "timeMonth": 1222,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2023-11-12": 84,
+      "2023-11-12": 90,
       "2023-07-27": 24
     }
   }

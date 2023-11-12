@@ -1,7 +1,7 @@
 url: $ADDONS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-12T05:38:15.617Z
+status: up
+code: 200
+responseTime: 6128
+lastUpdated: 2023-11-12T05:49:37.013Z
 startTime: 2022-11-13T12:58:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>

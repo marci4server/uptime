@@ -1,7 +1,7 @@
 url: $NEXTCLOUD
-status: down
-code: 502
-responseTime: 317
-lastUpdated: 2024-03-22T22:31:23.685Z
+status: up
+code: 200
+responseTime: 1476
+lastUpdated: 2024-03-22T22:37:23.893Z
 startTime: 2021-11-21T10:16:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>

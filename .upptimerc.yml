@@ -10,6 +10,7 @@ sites:
     url: $WEBMAIL
   - name: Nextcloud
     url: $NEXTCLOUD
+    __dangerous__insecure: true
   - name: Portainer
     url: $PORTAINER
   - name: Rspamd

@@ -6,8 +6,6 @@ sites:
     url: https://marci4.de
   - name: VirtualMin
     url: $VIRTUALMIN
-  - name: Nextcloud
-    url: $NEXTCLOUD
   - name: Webmail
     url: $WEBMAIL
   - name: Portainer

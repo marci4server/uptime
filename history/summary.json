@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 1263,
     "timeDay": 900,
     "timeWeek": 933,
     "timeMonth": 993,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2023-12-26": 419,
-      "2023-12-25": 54,
       "2023-11-12": 62,
       "2023-07-27": 27
     }
@@ -103,19 +101,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 671,
     "timeDay": 442,
     "timeWeek": 557,
     "timeMonth": 580,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-12-26": 419,
-      "2023-12-25": 54,
       "2023-11-12": 72,
       "2023-07-27": 27
     }
@@ -127,9 +123,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "6.10%",
-    "uptimeWeek": "6.10%",
-    "uptimeMonth": "6.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "0.00%",
     "time": 1115,
     "timeDay": 604,
@@ -137,9 +133,6 @@
     "timeMonth": 1202,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2024-04-16": 5,
-      "2023-12-26": 644,
-      "2023-12-25": 54,
       "2023-11-12": 82,
       "2023-07-27": 27
     }
@@ -150,19 +143,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 773,
     "timeDay": 546,
     "timeWeek": 570,
     "timeMonth": 604,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2023-12-26": 419,
-      "2023-12-25": 53,
       "2023-11-12": 65,
       "2023-07-27": 26
     }
@@ -173,20 +164,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rspamd",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 601,
     "timeDay": 414,
     "timeWeek": 477,
     "timeMonth": 492,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-12-26": 419,
-      "2023-12-25": 53,
-      "2023-11-12": 75,
+      "2023-11-12": 43,
       "2023-07-27": 26
     }
   },
@@ -200,14 +189,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 565,
     "timeDay": 439,
     "timeWeek": 458,
     "timeMonth": 463,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-11-12": 65,
+      "2023-11-12": 33,
       "2023-07-27": 26
     }
   },
@@ -272,7 +261,7 @@
     "timeMonth": 680,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-11-12": 90,
+      "2023-11-12": 59,
       "2023-07-27": 25
     }
   },

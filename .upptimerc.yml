@@ -8,6 +8,8 @@ sites:
     url: $VIRTUALMIN
   - name: Webmail
     url: $WEBMAIL
+  - name: Nextcloud
+    url: $NEXTCLOUD
   - name: Portainer
     url: $PORTAINER
   - name: Rspamd

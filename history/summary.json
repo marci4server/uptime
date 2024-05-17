@@ -58,18 +58,20 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1065,
-    "timeDay": 752,
-    "timeWeek": 720,
-    "timeMonth": 717,
-    "timeYear": 1110,
-    "dailyMinutesDown": {}
+    "time": 1067,
+    "timeDay": 1513,
+    "timeWeek": 847,
+    "timeMonth": 747,
+    "timeYear": 1113,
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "Portainer",

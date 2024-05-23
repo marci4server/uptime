@@ -58,19 +58,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1067,
-    "timeDay": 545,
-    "timeWeek": 977,
-    "timeMonth": 799,
-    "timeYear": 1107,
+    "timeDay": 656,
+    "timeWeek": 971,
+    "timeMonth": 801,
+    "timeYear": 1106,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 6
     }
   },
   {
@@ -260,9 +260,9 @@
     "slug": "mg-naturgartenbau-de",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "21.94%",
-    "uptimeWeek": "88.85%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "21.54%",
+    "uptimeWeek": "88.79%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.79%",
     "time": 459,
     "timeDay": 317,
@@ -270,7 +270,7 @@
     "timeMonth": 398,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-05-23": 1124
+      "2024-05-23": 1130
     }
   },
   {

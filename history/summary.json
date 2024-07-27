@@ -14,7 +14,7 @@
     "timeDay": 758,
     "timeWeek": 958,
     "timeMonth": 1014,
-    "timeYear": 1162,
+    "timeYear": 1163,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 702,
-    "timeWeek": 794,
-    "timeMonth": 888,
+    "time": 1034,
+    "timeDay": 680,
+    "timeWeek": 824,
+    "timeMonth": 889,
     "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-27": 0
+    }
   },
   {
     "name": "Portainer",
@@ -86,7 +88,7 @@
     "timeDay": 528,
     "timeWeek": 662,
     "timeMonth": 664,
-    "timeYear": 742,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +196,7 @@
     "timeDay": 865,
     "timeWeek": 1033,
     "timeMonth": 1204,
-    "timeYear": 1254,
+    "timeYear": 1255,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +214,7 @@
     "timeDay": 869,
     "timeWeek": 1048,
     "timeMonth": 1208,
-    "timeYear": 1201,
+    "timeYear": 1202,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +232,7 @@
     "timeDay": 700,
     "timeWeek": 905,
     "timeMonth": 1028,
-    "timeYear": 1158,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +250,7 @@
     "timeDay": 1039,
     "timeWeek": 973,
     "timeMonth": 1018,
-    "timeYear": 1166,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   },
   {
@@ -257,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mg-naturgartenbau.de.ico",
     "slug": "mg-naturgartenbau-de",
     "status": "down",
-    "uptime": "89.72%",
+    "uptime": "89.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.23%",
+    "uptimeYear": "81.98%",
     "time": 466,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-07-27": 51,
+      "2024-07-27": 1353,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -351,7 +353,7 @@
     "timeDay": 970,
     "timeWeek": 1358,
     "timeMonth": 1476,
-    "timeYear": 1226,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2024-04-18": 16
     }

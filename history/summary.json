@@ -22,19 +22,19 @@
     "url": "$VIRTUALMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 694,
-    "timeWeek": 756,
+    "timeDay": 710,
+    "timeWeek": 751,
     "timeMonth": 723,
-    "timeYear": 1032,
+    "timeYear": 1031,
     "dailyMinutesDown": {
-      "2024-08-18": 0
+      "2024-08-18": 6
     }
   },
   {
@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-08-18": 1302,
+      "2024-08-18": 1308,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,

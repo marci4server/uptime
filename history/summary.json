@@ -13,7 +13,7 @@
     "time": 1127,
     "timeDay": 884,
     "timeWeek": 869,
-    "timeMonth": 957,
+    "timeMonth": 961,
     "timeYear": 1147,
     "dailyMinutesDown": {}
   },
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 702,
+    "timeDay": 677,
     "timeWeek": 726,
     "timeMonth": 722,
     "timeYear": 1032,
@@ -49,7 +49,7 @@
     "time": 622,
     "timeDay": 630,
     "timeWeek": 492,
-    "timeMonth": 560,
+    "timeMonth": 561,
     "timeYear": 639,
     "dailyMinutesDown": {}
   },
@@ -58,18 +58,20 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 641,
-    "timeWeek": 776,
-    "timeMonth": 838,
-    "timeYear": 1058,
-    "dailyMinutesDown": {}
+    "time": 1029,
+    "timeDay": 1026,
+    "timeWeek": 847,
+    "timeMonth": 828,
+    "timeYear": 1059,
+    "dailyMinutesDown": {
+      "2024-08-19": 0
+    }
   },
   {
     "name": "Portainer",
@@ -85,7 +87,7 @@
     "time": 718,
     "timeDay": 505,
     "timeWeek": 531,
-    "timeMonth": 612,
+    "timeMonth": 618,
     "timeYear": 735,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 589,
     "timeDay": 412,
     "timeWeek": 381,
-    "timeMonth": 478,
+    "timeMonth": 483,
     "timeYear": 607,
     "dailyMinutesDown": {}
   },
@@ -121,7 +123,7 @@
     "time": 559,
     "timeDay": 430,
     "timeWeek": 468,
-    "timeMonth": 507,
+    "timeMonth": 512,
     "timeYear": 574,
     "dailyMinutesDown": {}
   },
@@ -139,7 +141,7 @@
     "time": 2153,
     "timeDay": 1651,
     "timeWeek": 1691,
-    "timeMonth": 1894,
+    "timeMonth": 1896,
     "timeYear": 2129,
     "dailyMinutesDown": {}
   },
@@ -157,7 +159,7 @@
     "time": 914,
     "timeDay": 535,
     "timeWeek": 774,
-    "timeMonth": 701,
+    "timeMonth": 706,
     "timeYear": 852,
     "dailyMinutesDown": {}
   },
@@ -175,7 +177,7 @@
     "time": 754,
     "timeDay": 529,
     "timeWeek": 573,
-    "timeMonth": 663,
+    "timeMonth": 666,
     "timeYear": 775,
     "dailyMinutesDown": {}
   },
@@ -193,7 +195,7 @@
     "time": 1206,
     "timeDay": 1005,
     "timeWeek": 1058,
-    "timeMonth": 1101,
+    "timeMonth": 1104,
     "timeYear": 1257,
     "dailyMinutesDown": {}
   },
@@ -211,7 +213,7 @@
     "time": 1182,
     "timeDay": 5798,
     "timeWeek": 3352,
-    "timeMonth": 1581,
+    "timeMonth": 1476,
     "timeYear": 1232,
     "dailyMinutesDown": {}
   },
@@ -229,7 +231,7 @@
     "time": 1089,
     "timeDay": 867,
     "timeWeek": 919,
-    "timeMonth": 893,
+    "timeMonth": 894,
     "timeYear": 1145,
     "dailyMinutesDown": {}
   },
@@ -257,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mg-naturgartenbau.de.ico",
     "slug": "mg-naturgartenbau-de",
     "status": "down",
-    "uptime": "86.57%",
+    "uptime": "86.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.92%",
+    "uptimeYear": "75.68%",
     "time": 470,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-08-19": 54,
+      "2024-08-19": 1352,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -373,7 +375,7 @@
     "time": 1217,
     "timeDay": 920,
     "timeWeek": 1002,
-    "timeMonth": 1265,
+    "timeMonth": 1266,
     "timeYear": 1233,
     "dailyMinutesDown": {
       "2024-04-18": 16

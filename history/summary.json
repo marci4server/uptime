@@ -166,9 +166,9 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://icons.duckduckgo.com/ip3/elektro-oppold.de.ico",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,25 +177,29 @@
     "timeWeek": 594,
     "timeMonth": 669,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "faschingsverein-oy.de",
     "url": "https://faschingsverein-oy.de",
     "icon": "https://icons.duckduckgo.com/ip3/faschingsverein-oy.de.ico",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1207,
+    "time": 1208,
     "timeDay": 997,
     "timeWeek": 1069,
     "timeMonth": 1106,
     "timeYear": 1259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "saegesucht.de",
@@ -257,18 +261,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mg-naturgartenbau.de.ico",
     "slug": "mg-naturgartenbau-de",
     "status": "down",
-    "uptime": "86.04%",
+    "uptime": "85.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.83%",
+    "uptimeYear": "74.59%",
     "time": 471,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2024-08-23": 53,
+      "2024-08-23": 1321,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,

@@ -112,19 +112,19 @@
     "url": "$ADDONS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 428,
-    "timeWeek": 482,
-    "timeMonth": 516,
+    "time": 560,
+    "timeDay": 517,
+    "timeWeek": 498,
+    "timeMonth": 519,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-08-31": 1
+      "2024-08-31": 17
     }
   },
   {
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-08-31": 1321,
+      "2024-08-31": 1338,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,

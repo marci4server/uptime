@@ -112,9 +112,9 @@
     "url": "$ADDONS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 482,
     "timeMonth": 516,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 1
+    }
   },
   {
     "name": "feuerwehr-lauben.de",
@@ -261,18 +263,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mg-naturgartenbau.de.ico",
     "slug": "mg-naturgartenbau-de",
     "status": "down",
-    "uptime": "85.01%",
+    "uptime": "84.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.64%",
+    "uptimeYear": "72.39%",
     "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-08-31": 55,
+      "2024-08-31": 1321,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,

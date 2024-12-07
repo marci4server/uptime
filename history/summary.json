@@ -6,18 +6,16 @@
     "slug": "marci4-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1128,
     "timeDay": 1064,
     "timeWeek": 1169,
     "timeMonth": 1230,
     "timeYear": 1104,
-    "dailyMinutesDown": {
-      "2024-12-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VirtualMin",
@@ -60,18 +58,20 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 865,
-    "timeWeek": 992,
-    "timeMonth": 1089,
-    "timeYear": 951,
-    "dailyMinutesDown": {}
+    "time": 1027,
+    "timeDay": 639,
+    "timeWeek": 934,
+    "timeMonth": 1075,
+    "timeYear": 949,
+    "dailyMinutesDown": {
+      "2024-12-07": 0
+    }
   },
   {
     "name": "Portainer",
@@ -265,18 +265,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mg-naturgartenbau.de.ico",
     "slug": "mg-naturgartenbau-de",
     "status": "down",
-    "uptime": "74.09%",
+    "uptime": "74.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.74%",
+    "uptimeYear": "45.54%",
     "time": 489,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-12-07": 291,
+      "2024-12-07": 1353,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,

@@ -45,10 +45,6 @@ sites:
     url: https://sw-vt.de/
   - name: prinzessin-gugelhupf.de
     url: https://prinzessin-gugelhupf.de/
-  - name: mg-naturgartenbau.de
-    url: http://mg-naturgartenbau.de
-    expectedStatusCodes:
-      - 403
   - name: Birkenmoos.de
     url: https://birkenmoos.de
     

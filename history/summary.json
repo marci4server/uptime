@@ -24,9 +24,9 @@
     "slug": "virtual-min",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1054,
     "timeDay": 962,
@@ -34,7 +34,7 @@
     "timeMonth": 961,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2025-02-21": 7
+      "2025-02-21": 24
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://icons.duckduckgo.com/ip3/elektro-oppold.de.ico",
     "slug": "elektro-oppold-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 740,
-    "timeDay": 940,
+    "timeDay": 858,
     "timeWeek": 776,
-    "timeMonth": 729,
+    "timeMonth": 730,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 17
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://icons.duckduckgo.com/ip3/faschingsverein-oy.de.ico",
     "slug": "faschingsverein-oy-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 4706,
-    "timeWeek": 1864,
-    "timeMonth": 1690,
-    "timeYear": 1216,
+    "time": 1289,
+    "timeDay": 3246,
+    "timeWeek": 1854,
+    "timeMonth": 1693,
+    "timeYear": 1218,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 17
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1272,
-    "timeDay": 2158,
-    "timeWeek": 1358,
-    "timeMonth": 1744,
-    "timeYear": 1217,
+    "time": 1273,
+    "timeDay": 1814,
+    "timeWeek": 1372,
+    "timeMonth": 1736,
+    "timeYear": 1218,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 17
     }
   },
   {
@@ -234,15 +234,15 @@
     "uptime": "97.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.98%",
-    "uptimeYear": "92.50%",
+    "uptimeMonth": "9.94%",
+    "uptimeYear": "92.49%",
     "time": 1302,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 4697,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-02-21": 602,
+      "2025-02-21": 618,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -277,19 +277,19 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1235,
-    "timeDay": 1997,
-    "timeWeek": 1385,
-    "timeMonth": 1916,
+    "time": 1236,
+    "timeDay": 1711,
+    "timeWeek": 1390,
+    "timeMonth": 1900,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 17
     }
   },
   {
@@ -297,19 +297,19 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 2283,
-    "timeWeek": 1762,
-    "timeMonth": 1568,
-    "timeYear": 1318,
+    "time": 1316,
+    "timeDay": 1986,
+    "timeWeek": 1753,
+    "timeMonth": 1572,
+    "timeYear": 1319,
     "dailyMinutesDown": {
-      "2025-02-21": 0
+      "2025-02-21": 16
     }
   }
 ]

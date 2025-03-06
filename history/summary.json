@@ -188,16 +188,15 @@
     "uptime": "100.00%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 1303,
     "timeDay": 1193,
     "timeWeek": 1811,
     "timeMonth": 2015,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2025-03-06": 16,
-      "2025-02-21": 17
+      "2025-03-06": 16
     }
   },
   {
@@ -209,16 +208,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1276,
     "timeDay": 846,
     "timeWeek": 1371,
     "timeMonth": 1700,
     "timeYear": 1224,
-    "dailyMinutesDown": {
-      "2025-02-21": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "prinzessin-gugelhupf.de",
@@ -229,16 +226,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1247,
     "timeDay": 905,
     "timeWeek": 1310,
     "timeMonth": 1466,
     "timeYear": 1193,
-    "dailyMinutesDown": {
-      "2025-02-21": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Birkenmoos.de",
@@ -249,15 +244,13 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1327,
     "timeDay": 1318,
     "timeWeek": 1321,
     "timeMonth": 1680,
     "timeYear": 1337,
-    "dailyMinutesDown": {
-      "2025-02-21": 16
-    }
+    "dailyMinutesDown": {}
   }
 ]

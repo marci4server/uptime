@@ -49,7 +49,7 @@
     "time": 609,
     "timeDay": 550,
     "timeWeek": 719,
-    "timeMonth": 748,
+    "timeMonth": 751,
     "timeYear": 599,
     "dailyMinutesDown": {}
   },
@@ -58,18 +58,20 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1065,
-    "timeDay": 1029,
-    "timeWeek": 1123,
-    "timeMonth": 1308,
+    "timeDay": 1030,
+    "timeWeek": 1090,
+    "timeMonth": 1296,
     "timeYear": 995,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-21": 0
+    }
   },
   {
     "name": "Portainer",
@@ -193,7 +195,7 @@
     "time": 1261,
     "timeDay": 1769,
     "timeWeek": 1577,
-    "timeMonth": 1711,
+    "timeMonth": 1708,
     "timeYear": 1246,
     "dailyMinutesDown": {}
   },
@@ -211,7 +213,7 @@
     "time": 1232,
     "timeDay": 1010,
     "timeWeek": 1381,
-    "timeMonth": 1428,
+    "timeMonth": 1426,
     "timeYear": 1232,
     "dailyMinutesDown": {}
   },
@@ -229,7 +231,7 @@
     "time": 1194,
     "timeDay": 865,
     "timeWeek": 1351,
-    "timeMonth": 1334,
+    "timeMonth": 1331,
     "timeYear": 1199,
     "dailyMinutesDown": {}
   },
@@ -247,7 +249,7 @@
     "time": 1318,
     "timeDay": 1116,
     "timeWeek": 1140,
-    "timeMonth": 1340,
+    "timeMonth": 1328,
     "timeYear": 1332,
     "dailyMinutesDown": {}
   }

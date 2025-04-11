@@ -10,8 +10,6 @@ sites:
     url: $WEBMAIL
   - name: Nextcloud
     url: $NEXTCLOUD
-  - name: Portainer
-    url: $PORTAINER
   - name: Rspamd
     url: $RSPAMD
     __dangerous__disable_verify_peer: true
@@ -45,6 +43,8 @@ sites:
     url: https://prinzessin-gugelhupf.de/
   - name: Birkenmoos.de
     url: https://birkenmoos.de
+  - name: catering-mg.de
+    url: https://catering-mg.de
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

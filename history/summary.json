@@ -202,18 +202,20 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1176,
-    "timeWeek": 1099,
-    "timeMonth": 1071,
-    "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "time": 1188,
+    "timeDay": 920,
+    "timeWeek": 1050,
+    "timeMonth": 1058,
+    "timeYear": 1186,
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "Birkenmoos.de",

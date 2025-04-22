@@ -130,19 +130,19 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 798,
+    "time": 796,
     "timeDay": 8392,
     "timeWeek": 2678,
     "timeMonth": 1155,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 25
     }
   },
   {

@@ -186,18 +186,20 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1005,
-    "timeWeek": 904,
-    "timeMonth": 906,
-    "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "time": 1207,
+    "timeDay": 772,
+    "timeWeek": 859,
+    "timeMonth": 895,
+    "timeYear": 1233,
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "prinzessin-gugelhupf.de",

@@ -186,19 +186,19 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1207,
-    "timeDay": 772,
-    "timeWeek": 859,
-    "timeMonth": 895,
+    "time": 1203,
+    "timeDay": 855,
+    "timeWeek": 877,
+    "timeMonth": 899,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 21
     }
   },
   {

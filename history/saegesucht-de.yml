@@ -1,7 +1,7 @@
 url: https://saegesucht.de
-status: up
-code: 200
-responseTime: 1243
-lastUpdated: 2025-04-29T23:09:10.744Z
+status: down
+code: 500
+responseTime: 411
+lastUpdated: 2025-04-30T05:32:05.469Z
 startTime: 2021-11-21T10:16:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>

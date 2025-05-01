@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "80.83%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "99.37%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "81.61%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.95%",
-    "time": 1158,
-    "timeDay": 833,
-    "timeWeek": 829,
-    "timeMonth": 810,
-    "timeYear": 1102,
+    "time": 1156,
+    "timeDay": 821,
+    "timeWeek": 819,
+    "timeMonth": 804,
+    "timeYear": 1100,
     "dailyMinutesDown": {
-      "2025-05-01": 277
+      "2025-05-01": 265
     }
   },
   {

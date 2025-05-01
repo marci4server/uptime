@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "84.21%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "83.83%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.96%",
-    "time": 1113,
+    "time": 1112,
     "timeDay": 846,
     "timeWeek": 838,
     "timeMonth": 812,
-    "timeYear": 1109,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-05-01": 228
+      "2025-05-01": 234
     }
   },
   {
@@ -190,7 +190,7 @@
     "slug": "saegesucht-de",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.08%",
+    "uptimeDay": "96.50%",
     "uptimeWeek": "93.88%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.88%",

@@ -202,19 +202,19 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1016,
-    "timeWeek": 1106,
-    "timeMonth": 1004,
+    "time": 1172,
+    "timeDay": 1029,
+    "timeWeek": 1102,
+    "timeMonth": 1005,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-05-06": 1
+      "2025-05-06": 10
     }
   },
   {

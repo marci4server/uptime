@@ -4,10 +4,10 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1113,
@@ -15,35 +15,39 @@
     "timeWeek": 918,
     "timeMonth": 833,
     "timeYear": 1094,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-22": 2
+    }
   },
   {
     "name": "VirtualMin",
     "url": "$VIRTUALMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
+    "time": 934,
     "timeDay": 569,
     "timeWeek": 619,
     "timeMonth": 637,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-22": 1
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
@@ -51,7 +55,9 @@
     "timeWeek": 622,
     "timeMonth": 569,
     "timeYear": 594,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-22": 1
+    }
   },
   {
     "name": "Nextcloud",
@@ -139,7 +145,7 @@
     "time": 776,
     "timeDay": 643,
     "timeWeek": 1136,
-    "timeMonth": 1337,
+    "timeMonth": 851,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },

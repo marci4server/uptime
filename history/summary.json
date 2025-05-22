@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1113,
-    "timeDay": 1047,
+    "timeDay": 984,
     "timeWeek": 918,
-    "timeMonth": 833,
-    "timeYear": 1094,
+    "timeMonth": 835,
+    "timeYear": 1093,
     "dailyMinutesDown": {
-      "2025-05-22": 2
+      "2025-05-22": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$VIRTUALMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 569,
-    "timeWeek": 619,
-    "timeMonth": 637,
-    "timeYear": 886,
+    "time": 920,
+    "timeDay": 587,
+    "timeWeek": 618,
+    "timeMonth": 636,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2025-05-22": 1
+      "2025-05-22": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 592,
-    "timeDay": 523,
-    "timeWeek": 622,
+    "timeDay": 552,
+    "timeWeek": 617,
     "timeMonth": 569,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-05-22": 1
+      "2025-05-22": 5
     }
   },
   {

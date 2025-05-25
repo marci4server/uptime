@@ -4,19 +4,19 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1112,
-    "timeDay": 815,
-    "timeWeek": 945,
+    "timeDay": 842,
+    "timeWeek": 936,
     "timeMonth": 846,
-    "timeYear": 1083,
+    "timeYear": 1082,
     "dailyMinutesDown": {
-      "2025-05-25": 3
+      "2025-05-25": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$VIRTUALMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 555,
+    "time": 899,
+    "timeDay": 582,
     "timeWeek": 601,
-    "timeMonth": 637,
-    "timeYear": 885,
+    "timeMonth": 636,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-05-25": 3
+      "2025-05-25": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 589,
-    "timeDay": 521,
+    "timeDay": 512,
     "timeWeek": 505,
-    "timeMonth": 562,
-    "timeYear": 594,
+    "timeMonth": 560,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-05-25": 3
+      "2025-05-25": 6
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 713,
-    "timeWeek": 674,
-    "timeMonth": 718,
+    "time": 973,
+    "timeDay": 746,
+    "timeWeek": 687,
+    "timeMonth": 720,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2025-05-25": 3
+      "2025-05-25": 6
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "$RSPAMD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rspamd",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 489,
-    "timeWeek": 463,
-    "timeMonth": 486,
+    "timeDay": 504,
+    "timeWeek": 470,
+    "timeMonth": 487,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-05-25": 3
+      "2025-05-25": 6
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "$ADDONS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "addons",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 542,
-    "timeWeek": 446,
-    "timeMonth": 523,
-    "timeYear": 506,
+    "timeDay": 514,
+    "timeWeek": 451,
+    "timeMonth": 522,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-05-25": 2
+      "2025-05-25": 6
     }
   },
   {
@@ -160,19 +160,19 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://icons.duckduckgo.com/ip3/elektro-oppold.de.ico",
     "slug": "elektro-oppold-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 587,
-    "timeWeek": 585,
-    "timeMonth": 654,
+    "timeDay": 649,
+    "timeWeek": 601,
+    "timeMonth": 655,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-05-25": 2
+      "2025-05-25": 5
     }
   },
   {
@@ -180,19 +180,19 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://icons.duckduckgo.com/ip3/faschingsverein-oy.de.ico",
     "slug": "faschingsverein-oy-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1230,
-    "timeDay": 872,
-    "timeWeek": 896,
+    "timeDay": 957,
+    "timeWeek": 915,
     "timeMonth": 1020,
-    "timeYear": 1256,
+    "timeYear": 1255,
     "dailyMinutesDown": {
-      "2025-05-25": 2
+      "2025-05-25": 5
     }
   },
   {
@@ -200,19 +200,19 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1170,
-    "timeDay": 822,
-    "timeWeek": 986,
-    "timeMonth": 803,
-    "timeYear": 1201,
+    "time": 1167,
+    "timeDay": 799,
+    "timeWeek": 960,
+    "timeMonth": 802,
+    "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-05-25": 1
+      "2025-05-25": 5
     }
   },
   {
@@ -220,19 +220,19 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1155,
-    "timeDay": 799,
-    "timeWeek": 787,
-    "timeMonth": 904,
-    "timeYear": 1182,
+    "timeDay": 789,
+    "timeWeek": 786,
+    "timeMonth": 900,
+    "timeYear": 1181,
     "dailyMinutesDown": {
-      "2025-05-25": 1
+      "2025-05-25": 4
     }
   },
   {
@@ -240,19 +240,19 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1318,
-    "timeDay": 936,
-    "timeWeek": 1138,
-    "timeMonth": 1292,
-    "timeYear": 1377,
+    "timeDay": 1034,
+    "timeWeek": 1137,
+    "timeMonth": 1287,
+    "timeYear": 1376,
     "dailyMinutesDown": {
-      "2025-05-25": 1
+      "2025-05-25": 4
     }
   },
   {
@@ -260,19 +260,19 @@
     "url": "https://catering-mg.de",
     "icon": "https://icons.duckduckgo.com/ip3/catering-mg.de.ico",
     "slug": "catering-mg-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1092,
-    "timeDay": 1039,
-    "timeWeek": 931,
-    "timeMonth": 1138,
+    "timeDay": 1052,
+    "timeWeek": 948,
+    "timeMonth": 1136,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2025-05-25": 1
+      "2025-05-25": 4
     }
   }
 ]

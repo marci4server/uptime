@@ -1,7 +1,7 @@
 url: $VIRTUALMIN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-06T10:54:03.650Z
+status: up
+code: 200
+responseTime: 1012
+lastUpdated: 2025-07-06T10:59:23.972Z
 startTime: 2022-11-06T08:17:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>

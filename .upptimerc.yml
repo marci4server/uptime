@@ -15,8 +15,6 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 401
-  - name: Addons
-    url: $ADDONS
   - name: feuerwehr-lauben.de
     url: https://feuerwehr-lauben.de
     expectedStatusCodes:

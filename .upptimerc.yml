@@ -10,6 +10,8 @@ sites:
     url: $WEBMAIL
   - name: Nextcloud
     url: $NEXTCLOUD
+  - name: Vault
+    url: $VAULT
   - name: Rspamd
     url: $RSPAMD
     __dangerous__disable_verify_peer: true

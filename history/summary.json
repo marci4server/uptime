@@ -4,12 +4,12 @@
     "url": "https://marci4.de",
     "icon": "https://icons.duckduckgo.com/ip3/marci4.de.ico",
     "slug": "marci4-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.86%",
     "time": 1026,
     "timeDay": 1175,
     "timeWeek": 964,
@@ -36,7 +36,8 @@
       "2026-01-25": 41,
       "2026-02-01": 20,
       "2026-02-03": 31,
-      "2026-02-09": 34
+      "2026-02-09": 34,
+      "2026-08-07": 57
     }
   },
   {
@@ -44,12 +45,12 @@
     "url": "$VIRTUALMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-min",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.87%",
     "time": 819,
     "timeDay": 1039,
     "timeWeek": 901,
@@ -76,7 +77,8 @@
       "2026-01-25": 41,
       "2026-02-01": 20,
       "2026-02-03": 31,
-      "2026-02-09": 34
+      "2026-02-09": 34,
+      "2026-08-07": 52
     }
   },
   {
@@ -84,12 +86,12 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.78%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "96.77%",
     "time": 650,
     "timeDay": 1076,
     "timeWeek": 955,
@@ -118,7 +120,8 @@
       "2026-01-25": 40,
       "2026-02-01": 20,
       "2026-02-03": 30,
-      "2026-02-09": 34
+      "2026-02-09": 34,
+      "2026-08-07": 47
     }
   },
   {
@@ -126,13 +129,13 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "83.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.36%",
-    "uptimeYear": "82.21%",
-    "time": 903,
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "82.26%",
+    "time": 904,
     "timeDay": 848,
     "timeWeek": 917,
     "timeMonth": 810,
@@ -217,7 +220,8 @@
       "2026-02-09": 33,
       "2026-07-27": 495,
       "2026-07-26": 1440,
-      "2026-07-25": 96
+      "2026-07-25": 96,
+      "2026-08-07": 42
     }
   },
   {
@@ -225,12 +229,12 @@
     "url": "$VAULT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.02%",
+    "status": "down",
+    "uptime": "96.01%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "96.01%",
     "time": 716,
     "timeDay": 956,
     "timeWeek": 785,
@@ -259,7 +263,8 @@
       "2026-01-25": 40,
       "2026-02-01": 19,
       "2026-02-03": 30,
-      "2026-02-09": 33
+      "2026-02-09": 33,
+      "2026-08-07": 38
     }
   },
   {
@@ -267,13 +272,13 @@
     "url": "$RSPAMD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rspamd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 580,
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.89%",
+    "time": 581,
     "timeDay": 764,
     "timeWeek": 613,
     "timeMonth": 606,
@@ -295,7 +300,8 @@
       "2026-01-16": 26,
       "2026-01-25": 40,
       "2026-02-01": 19,
-      "2026-02-03": 30
+      "2026-02-03": 30,
+      "2026-08-07": 33
     }
   },
   {
@@ -341,12 +347,12 @@
     "url": "https://elektro-oppold.de",
     "icon": "https://icons.duckduckgo.com/ip3/elektro-oppold.de.ico",
     "slug": "elektro-oppold-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.89%",
     "time": 749,
     "timeDay": 914,
     "timeWeek": 793,
@@ -368,7 +374,8 @@
       "2026-01-16": 26,
       "2026-01-25": 39,
       "2026-02-01": 19,
-      "2026-02-03": 29
+      "2026-02-03": 29,
+      "2026-08-07": 25
     }
   },
   {
@@ -376,13 +383,13 @@
     "url": "https://faschingsverein-oy.de",
     "icon": "https://icons.duckduckgo.com/ip3/faschingsverein-oy.de.ico",
     "slug": "faschingsverein-oy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 1233,
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.89%",
+    "time": 1234,
     "timeDay": 1330,
     "timeWeek": 1085,
     "timeMonth": 1107,
@@ -403,7 +410,8 @@
       "2026-01-16": 25,
       "2026-01-25": 39,
       "2026-02-01": 19,
-      "2026-02-03": 29
+      "2026-02-03": 29,
+      "2026-08-07": 20
     }
   },
   {
@@ -411,12 +419,12 @@
     "url": "https://saegesucht.de",
     "icon": "https://icons.duckduckgo.com/ip3/saegesucht.de.ico",
     "slug": "saegesucht-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.89%",
     "time": 1119,
     "timeDay": 1144,
     "timeWeek": 1021,
@@ -438,7 +446,8 @@
       "2026-01-16": 25,
       "2026-01-25": 39,
       "2026-02-01": 18,
-      "2026-02-03": 29
+      "2026-02-03": 29,
+      "2026-08-07": 15
     }
   },
   {
@@ -446,13 +455,13 @@
     "url": "https://prinzessin-gugelhupf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/prinzessin-gugelhupf.de.ico",
     "slug": "prinzessin-gugelhupf-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
-    "time": 1062,
+    "time": 1063,
     "timeDay": 1151,
     "timeWeek": 1043,
     "timeMonth": 1082,
@@ -472,7 +481,8 @@
       "2026-01-16": 25,
       "2026-01-25": 39,
       "2026-02-01": 18,
-      "2026-02-03": 29
+      "2026-02-03": 29,
+      "2026-08-07": 10
     }
   },
   {
@@ -480,11 +490,11 @@
     "url": "https://birkenmoos.de",
     "icon": "https://icons.duckduckgo.com/ip3/birkenmoos.de.ico",
     "slug": "birkenmoos-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 1293,
     "timeDay": 1388,
@@ -506,7 +516,8 @@
       "2026-01-16": 25,
       "2026-01-25": 38,
       "2026-02-01": 18,
-      "2026-02-03": 28
+      "2026-02-03": 28,
+      "2026-08-07": 6
     }
   },
   {
@@ -514,13 +525,13 @@
     "url": "https://catering-mg.de",
     "icon": "https://icons.duckduckgo.com/ip3/catering-mg.de.ico",
     "slug": "catering-mg-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1255,
+    "time": 1256,
     "timeDay": 1283,
     "timeWeek": 1185,
     "timeMonth": 1089,
@@ -538,7 +549,8 @@
       "2026-01-16": 24,
       "2026-01-25": 38,
       "2026-02-01": 18,
-      "2026-02-03": 28
+      "2026-02-03": 28,
+      "2026-08-07": 1
     }
   }
 ]

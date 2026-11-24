@@ -13,7 +13,7 @@
     "time": 1038,
     "timeDay": 879,
     "timeWeek": 1000,
-    "timeMonth": 1056,
+    "timeMonth": 1061,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -47,8 +47,8 @@
     "time": 859,
     "timeDay": 915,
     "timeWeek": 905,
-    "timeMonth": 942,
-    "timeYear": 860,
+    "timeMonth": 946,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2025-11-26": 21,
       "2025-12-02": 23,
@@ -79,7 +79,7 @@
     "time": 754,
     "timeDay": 872,
     "timeWeek": 930,
-    "timeMonth": 1001,
+    "timeMonth": 1002,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2025-12-02": 23,
@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "85.81%",
+    "uptime": "85.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -122,7 +122,7 @@
     "time": 939,
     "timeDay": 746,
     "timeWeek": 913,
-    "timeMonth": 906,
+    "timeMonth": 910,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -168,7 +168,7 @@
     "time": 726,
     "timeDay": 757,
     "timeWeek": 696,
-    "timeMonth": 754,
+    "timeMonth": 750,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -211,7 +211,7 @@
     "time": 609,
     "timeDay": 477,
     "timeWeek": 583,
-    "timeMonth": 623,
+    "timeMonth": 620,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -242,8 +242,8 @@
     "time": 2171,
     "timeDay": 1741,
     "timeWeek": 1655,
-    "timeMonth": 4364,
-    "timeYear": 2226,
+    "timeMonth": 4458,
+    "timeYear": 2227,
     "dailyMinutesDown": {}
   },
   {
@@ -251,19 +251,20 @@
     "url": "https://kljb-lauben.de",
     "icon": "https://icons.duckduckgo.com/ip3/kljb-lauben.de.ico",
     "slug": "kljb-lauben-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 983,
-    "timeDay": 1267,
-    "timeWeek": 1259,
-    "timeMonth": 1186,
-    "timeYear": 1042,
+    "time": 1013,
+    "timeDay": 8624,
+    "timeWeek": 3099,
+    "timeMonth": 1670,
+    "timeYear": 1084,
     "dailyMinutesDown": {
-      "2026-07-30": 154
+      "2026-07-30": 154,
+      "2026-11-24": 1
     }
   },
   {
@@ -280,7 +281,7 @@
     "time": 770,
     "timeDay": 756,
     "timeWeek": 715,
-    "timeMonth": 786,
+    "timeMonth": 788,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2025-11-26": 20,
@@ -312,8 +313,8 @@
     "time": 1257,
     "timeDay": 1173,
     "timeWeek": 1152,
-    "timeMonth": 1209,
-    "timeYear": 1242,
+    "timeMonth": 1217,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2025-11-26": 20,
       "2025-12-02": 22,
@@ -344,8 +345,8 @@
     "time": 1130,
     "timeDay": 961,
     "timeWeek": 991,
-    "timeMonth": 1084,
-    "timeYear": 1063,
+    "timeMonth": 1089,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-11-26": 20,
       "2025-12-02": 22,
@@ -376,7 +377,7 @@
     "time": 1085,
     "timeDay": 1360,
     "timeWeek": 1090,
-    "timeMonth": 1138,
+    "timeMonth": 1142,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-11-26": 20,
@@ -406,8 +407,8 @@
     "time": 1277,
     "timeDay": 1159,
     "timeWeek": 1150,
-    "timeMonth": 1259,
-    "timeYear": 1240,
+    "timeMonth": 1265,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2025-11-26": 19,
       "2025-12-02": 21,
@@ -436,8 +437,8 @@
     "time": 1246,
     "timeDay": 1202,
     "timeWeek": 1157,
-    "timeMonth": 1120,
-    "timeYear": 1186,
+    "timeMonth": 1119,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2025-11-26": 19,
       "2025-12-02": 21,
